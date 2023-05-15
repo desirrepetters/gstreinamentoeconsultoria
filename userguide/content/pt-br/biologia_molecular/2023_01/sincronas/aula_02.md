@@ -3,7 +3,7 @@ title: "Aula 02 - Bases moleculares do reconhecimento de patógenos por plantas"
 linkTitle: "Aula 02 - Bases moleculares do reconhecimento de patógenos por plantas"
 weight: 4
 description: >
-  Encontro do dia 02 de Dezembro com aula sobre bases moleculares do reconhecimento de patógenos por plantas
+  Encontro do dia 16 de maio com aula sobre bases moleculares do reconhecimento de patógenos por plantas
 ---
 
 <br>
