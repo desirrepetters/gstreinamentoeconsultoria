@@ -1,6 +1,6 @@
 ---
-title: "Aula 08 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
-linkTitle: "Aula 08 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
+title: "Aula 09 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
+linkTitle: "Aula 09 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
 weight: 4
 description: >
   Encontro do dia 29 de maio com aula sobre clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <i>E. coli</i>
