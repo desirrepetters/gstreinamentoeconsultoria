@@ -1,6 +1,6 @@
 ---
-title: "Aula 05 - Métodos de transformação genética em microrganismos"
-linkTitle: "Aula 05 - Métodos de transformação genética em microrganismos"
+title: "Aula 05 - Métodos de transformação genética em microrganismos (teórica)"
+linkTitle: "Aula 05 - Métodos de transformação genética em microrganismos (teórica)"
 weight: 4
 description: >
   Encontro do dia 22 de maio com aula sobre métodos de transformação genética em microrganismos
