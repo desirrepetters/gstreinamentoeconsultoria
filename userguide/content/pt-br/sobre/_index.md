@@ -115,6 +115,7 @@ Em construção!
 <table>
 <tbody>
 <tr>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/alan_silva.JPG" alt="Foto de Perfil de Alan de Oliveira Silva" width="310"/></td>
 <td>
 
 <p><p>
@@ -145,7 +146,6 @@ Em construção!
 </ul>
 
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/alan_silva.JPG" alt="Foto de Perfil de Alan de Oliveira Silva" width="310"/></td>
 </tr>
 </tbody>
 </table>
