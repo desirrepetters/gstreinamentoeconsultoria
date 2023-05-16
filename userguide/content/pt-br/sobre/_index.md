@@ -93,7 +93,7 @@ Em construção!
 <ul>
 <li>Graduação em Ciências Biológicas (Bacharelado) - Universidade Federal do Paraná (UFPR) (2015);</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2018);</li>
-<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, na Alemanha (2022)</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR) (2022), com período sanduíche no Max Planck Institute for Evolutionary Biology em Plön, Alemanha (2019-2020)</li>
 </ul>
 <p>
 
@@ -119,7 +119,7 @@ Em construção!
 
 <p><p>
 
-<b>Alan de Oliveira Silva</b> é pós-doutorando na Martin-Luther-Universität Halle-Wittenberg, em Halle, na Alemanha.
+<b>Alan de Oliveira Silva</b> é um pesquisador atuante na linha de pesquisa de Genética de Microrganismos Fitopatogênicos com ênfase em Genética da Interação Fungo-Planta, possuindo sólida experiência em diversos métodos de pesquisa em Genética, Biologia Molecular e Microbiologia e na assessoria acadêmica para correção de textos, manuscritos, teses e apresentações em português e inglês. Nos últimos anos atuou como pesquisador de pós-doutorado (2018 – 2022) em Genética Funcional de Fungos, aprofundando seus conhecimentos em Biologia Molecular da interação fungo-planta, participando da Escola Internacional AGRIPOLY (Alemanha) como supervisor do trabalho de pesquisa de alunos de graduação e mestrado e de alunos do programa de intercâmbio da Universidade Alemã no Cairo (German University in Cairo – GUC, Egito).
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
@@ -134,18 +134,18 @@ Em construção!
 <ul>
 <li>Graduação em Ciências Biológicas (Licenciatura) - Universidade Federal de Sergipe (UFS) (2005)</li>
 <li>Mestrado em Genética - Universidade Federal do Paraná (UFPR) (2014)</li>
-<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR) (2017)</li>
+<li>Doutorado em Genética - Universidade Federal do Paraná (UFPR) (2017), com período sanduíche na Martin-Luther-Universität em Halle, Alemanha</li>
 </ul>
 
 <p>
 
 <strong>Pós-doutorado</strong>
 <ul>
-<li>Pós-Doutorado na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2017 - em andamento)</li>
+<li>Pós-Doutorado em Genética Funcional de Fungos na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2017 - 2022)</li>
 </ul>
 
 </td>
-<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/alan_silva.jpeg" alt="Foto de Perfil de Alan de Oliveira Silva" width="310"/></td>
+<td rowspan="3"> <img class="alignnone size-full wp-image-604" src="/sobre/alan_silva.JPG" alt="Foto de Perfil de Alan de Oliveira Silva" width="310"/></td>
 </tr>
 </tbody>
 </table>
