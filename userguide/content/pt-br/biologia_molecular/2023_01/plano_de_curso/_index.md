@@ -18,11 +18,11 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 01 (Síncrona)</td>
   <td style="vertical-align:middle;">15/05/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_01"><br>Introdução ao curso. Conceitos introdutórios da genética de interações patógeno-planta<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_01"><br>Introdução ao curso e Seleção de Genes Candidatos<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 02 (Síncrona)</td>
   <td style="vertical-align:middle;">16/05/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_02"><br>Bases moleculares do reconhecimento de patógenos por plantas<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_02"><br>Conceitos introdutórios da genética de interações patógeno-plantaBases moleculares do reconhecimento de patógenos por plantas<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 03 (Síncrona)</td>
   <td style="vertical-align:middle;">17/05/2023 <br>(16:00 - 20:00)</td>
