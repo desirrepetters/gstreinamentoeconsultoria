@@ -25,4 +25,11 @@ description: >
 <h2>Slides</h2>
 <br>
 Clique <a href="">aqui</a>! (em breve!)
+<br><br>
+
+<h2>Arquivos para Prática</h2>
+<br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_04_filogenia_mrbayes.zip">Filogenia com MrBayes</a><br>
+<br><br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_04_genoma_cgraminicola.zip">Genoma - Colletorichum graminicolas</a><br>
 </div>
