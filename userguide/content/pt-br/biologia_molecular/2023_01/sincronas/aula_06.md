@@ -3,23 +3,23 @@ title: "Aula 06 - Métodos de transformação genética em microrganismos (prát
 linkTitle: "Aula 06 - Métodos de transformação genética em microrganismos (prática)"
 weight: 4
 description: >
-  Encontro do dia 23 de maio com aula prática sobre métodos de transformação genética em microrganismos
+  Aula assíncrona referente à carga horária do dia 23 de maio, com aula prática sobre métodos de transformação genética em microrganismos e caracterização de mutantes por Southern Blot
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>Transformação genética em Colletotrichum graminicola</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LMtTQyCvAz8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Caracterização de mutantes por Southern Blot</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YL-V0LUDzag" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
