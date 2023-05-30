@@ -37,8 +37,8 @@ description: >
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_05"><br>Métodos de transformação genética em microrganismos (teórica)<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 06 (Assíncrona)</td>
-  <td style="vertical-align:middle;">23/05/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_06">Métodos de transformação genética em microrganismos (prática)</a><br></td>
+  <td style="vertical-align:middle;">- - -</td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/assincronas/aula_01">Métodos de transformação genética em microrganismos (prática)</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 07 (Síncrona)</td>
   <td style="vertical-align:middle;">24/05/2023 <br>(16:00 - 20:00)</td>
@@ -56,7 +56,7 @@ description: >
   <td style="vertical-align:middle;">30/05/2023 <br>(16:00 - 20:00)</td>
   <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/sincronas/aula_10">Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <i>E. coli</i></a><br></td>
   <tr>
-  <td style="vertical-align:middle;">Atividade 01 (Assíncrona)</td>
+  <td style="vertical-align:middle;">Atividade 02 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
   <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/biologia_molecular/2023_01/assincronas/aula_02">Atividade assíncrona: Eletroforese (protocolo comentado)</a><br></td>
   <tr>
