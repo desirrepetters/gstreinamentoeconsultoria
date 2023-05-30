@@ -1,23 +1,23 @@
 ---
-title: "Aula 09 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
-linkTitle: "Aula 09 - Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em E. coli"
+title: "Aula 09 - PCR: do desenho de primers eficientes à confirmação da amplificação por eletroforese"
+linkTitle: "Aula 09 - PCR: do desenho de primers eficientes à confirmação da amplificação por eletroforese"
 weight: 4
 description: >
-  Encontro do dia 29 de maio com aula sobre clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <i>E. coli</i>
+  Encontro do dia 29 de maio com aula sobre PCR: do desenho de primers eficientes à confirmação da amplificação por eletroforese
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>PCR: do desenho de primers eficientes à confirmação da amplificação por eletroforese</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Su6-OZ7EzX8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>PCR: do desenho de primers eficientes à confirmação da amplificação por eletroforese</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
