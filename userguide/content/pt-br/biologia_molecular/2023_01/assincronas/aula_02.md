@@ -15,4 +15,11 @@ description: >
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OqYx1EUANf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
+<h2>Arquivos para Prática</h2>
+<br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_assincrona_02_plasmideos.zip">Plasmídeos pUC18 e pRedi</a><br>
+<br><br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_assincrona_02_exercicios_PCR_clonagem.zip">Exercícios de fixação - PCR e Clonagem</a><br>
+<br><br>
+
 </div>
