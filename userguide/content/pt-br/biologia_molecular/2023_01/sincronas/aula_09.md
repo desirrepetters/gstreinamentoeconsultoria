@@ -24,11 +24,11 @@ description: >
 
 <h2>Slides</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_09.pdf">aqui</a>! 
+Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_09.pdf">aqui</a>! 
 
 <h2>Arquivos para Prática</h2>
 <br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_08_09_PCR.zip">Desenho de primers (Calculadora de PCR e sequências de referência)</a><br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_08_09_PCR.zip">Desenho de primers (Calculadora de PCR e sequências de referência)</a><br>
 <br><br>
 
 </div>
