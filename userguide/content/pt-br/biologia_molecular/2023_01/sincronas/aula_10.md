@@ -10,14 +10,14 @@ description: >
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <u>E. coli</u></i>
+<i>Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <u>E. coli</u></i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uwXB0G89zFI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <u>E. coli</u></i>
+<i>Clonagem gênica: escolha e manipulação de vetores, desenho de primers, digestão, ligação e clonagem em <u>E. coli</u></i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yQY77gbQO4I" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
