@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_02.pdf">aqui</a>!
+Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_02.pdf">aqui</a>!
 </div>
