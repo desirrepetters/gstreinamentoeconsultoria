@@ -31,5 +31,5 @@ Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/
 <br>
 <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_04_filogenia_mrbayes.zip">Filogenia com MrBayes</a><br>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_04_genoma_cgraminicola.zip">Genoma - Colletorichum graminicola</a><br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/files/aula_04_genoma_cgraminicola.zip">Genoma - Colletorichum graminicola</a><br>
 </div>
