@@ -24,7 +24,7 @@ description: >
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_05a.pdf">Métodos de Transformação Genética em Microrganismos</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_05a.pdf">Métodos de Transformação Genética em Microrganismos</a>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_05b.pdf">Metodologias para o estudo funcional de genes</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/biologia_molecular/2023_01/sincronas/pdf/aula_05b.pdf">Metodologias para o estudo funcional de genes</a>
 </div>
