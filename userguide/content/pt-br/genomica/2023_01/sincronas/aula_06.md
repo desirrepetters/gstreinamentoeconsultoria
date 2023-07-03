@@ -3,7 +3,7 @@ title: "Aula 06 - Montagem de genomas (Illumina e PacBio) e estatísticas básic
 linkTitle: "Aula 06 - Montagem de genomas (Illumina e PacBio) e estatísticas básicas de qualidade: L50, N50, tamanho, quantidade de contigs/scaffolds, cobertura, completude, contaminação"
 weight: 4
 description: >
-  Encontro do dia 10 de julho com aula sobre montagem de genomas (Illumina e PacBio) e estatísticas básicas de qualidade: L50, N50, tamanho, quantidade de contigs/scaffolds, cobertura, completude, contaminação
+  Encontro do dia 11 de julho com aula sobre montagem de genomas (Illumina e PacBio) e estatísticas básicas de qualidade: L50, N50, tamanho, quantidade de contigs/scaffolds, cobertura, completude, contaminação
 ---
 
 <br>
