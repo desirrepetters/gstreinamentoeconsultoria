@@ -1,9 +1,9 @@
 ---
-title: "Atividade 03 - Análise de sintenia e orgaização genômica (prática)"
-linkTitle: "Aula 04 - Análise de sintenia e orgaização genômica (prática)"
+title: "Atividade 03 - Análise de sintenia e organização genômica (prática)"
+linkTitle: "Aula 04 - Análise de sintenia e organização genômica (prática)"
 weight: 4
 description: >
-  Aula assíncrona referente à carga horária do dia 08 de agosto, com atividade prática sobre análise de sintenia e orgaização genômica (prática)
+  Aula assíncrona referente à carga horária do dia 09 de agosto, com atividade prática sobre análise de sintenia e organização genômica (prática)
 ---
 
 <br>
