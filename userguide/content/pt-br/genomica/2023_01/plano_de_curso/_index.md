@@ -46,7 +46,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 01 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_01">Montagem de genomas (prática)</a><br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_01">Montagem de genomas (prática)</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
   <td style="vertical-align:middle;">17/07/2023 <br>(16:00 - 20:00)</td>
@@ -66,7 +66,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 02 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_02">Atividade assíncrona: Anotação de genomas (prática)</a><br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_02">Atividade assíncrona: Anotação de genomas (prática)</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 12 (Síncrona)</td>
   <td style="vertical-align:middle;">25/07/2023 <br>(16:00 - 20:00)</td>
@@ -86,7 +86,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 03 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Atividade assíncrona: anotação funcional (prática)<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_03">Atividade assíncrona: anotação funcional (prática)<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 16 (Síncrona)</td>
   <td style="vertical-align:middle;">02/08/2023 <br>(16:00 - 20:00)</td>
@@ -106,7 +106,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 04 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br>Atividade assíncrona: análise de sintenia e orgaização genômica (prática)<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: análise de sintenia e orgaização genômica (prática)</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 20 (Síncrona)</td>
   <td style="vertical-align:middle;">10/08/2023 <br>(16:00 - 20:00)</td>
