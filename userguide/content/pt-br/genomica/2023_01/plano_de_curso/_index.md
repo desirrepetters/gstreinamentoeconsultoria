@@ -106,7 +106,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Atividade 04 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: análise de sintenia e orgaização genômica (prática)</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: análise de sintenia e orgaização genômica (prática)</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 20 (Síncrona)</td>
   <td style="vertical-align:middle;">10/08/2023 <br>(16:00 - 20:00)</td>
