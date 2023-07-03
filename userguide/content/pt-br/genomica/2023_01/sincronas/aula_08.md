@@ -3,7 +3,7 @@ title: "Aula 08 - Discussão da atividade assíncrona de montagem de genomas"
 linkTitle: "Aula 08 - Discussão da atividade assíncrona de montagem de genomas"
 weight: 4
 description: >
-  Encontro do dia 25 de maio com aula de discussão da atividade assíncrona de montagem de genomas
+  Encontro do dia 17 de julho com aula de discussão da atividade assíncrona de montagem de genomas
 ---
 
 <br>
