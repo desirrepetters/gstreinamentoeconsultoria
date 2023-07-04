@@ -17,9 +17,9 @@ description: >
 
 <h2>Parte 02</h2>
 <br>
-<i>Organização de genomas procarióticos - Em breve! (Correção de problema de áudio em andamento)</i>
+<i>Organização de genomas procarióticos</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/38-08NqymCo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sz4qpEoMXM4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 03</h2>
