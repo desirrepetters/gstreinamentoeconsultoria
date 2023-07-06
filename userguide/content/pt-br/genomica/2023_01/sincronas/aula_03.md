@@ -24,6 +24,8 @@ description: >
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_.pdf">Em breve!</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_03a.pdf">Organização de genomas fúngicos</a>
+<br><br>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_03b.pdf">Metodologias de sequenciamento de genomas</a>
 <br><br>
 </div>
