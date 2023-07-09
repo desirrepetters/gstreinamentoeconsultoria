@@ -1,6 +1,6 @@
 ---
-title: "Aula 01 - Introdução ao Curso"
-linkTitle: "Aula 01 - Introdução ao Curso"
+title: "Aula 01 - Introdução ao curso, conceitos básicos em taxonomia, sistemática e filogenia molecular"
+linkTitle: "Aula 01 - Introdução ao curso, conceitos básicos em taxonomia, sistemática e filogenia molecular"
 weight: 4
 description: >
   Encontro do dia 27 de fevereiro com introdução ao curso, conceitos básicos em taxonomia, sistemática e filogenia molecular.
@@ -17,7 +17,7 @@ description: >
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Conceitos básicos em taxonomia, sistemática e filogenia molecular</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ag6AFDn0Iyw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
