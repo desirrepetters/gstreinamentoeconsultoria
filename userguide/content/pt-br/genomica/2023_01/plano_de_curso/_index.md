@@ -29,7 +29,7 @@ description: >
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_03"><br>Noções gerais de trabalho em ambiente Linux: servidores on-line (Galaxy) como alternativa à instalação. Metodologias de sequenciamento de genomas<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 04 (Síncrona)</td>
-  <td style="vertical-align:middle;">06/07/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;">06/07/2023 <br>(16:00 - 18:00)</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_04"><br>Critérios de escolha de linhagens sequenciadas e metodologias de sequenciamento utilizadas (Illumina e PacBio)<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 05 (Síncrona)</td>
