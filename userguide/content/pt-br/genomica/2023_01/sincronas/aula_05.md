@@ -31,13 +31,13 @@ description: >
 
 <h2>Parte 04</h2>
 <br>
-<i>Em breve!</i>
+<i>Processamento de dados brutos no Trimmomatic</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_h7lUZ3lnnk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_05.pdf">Em breve!</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_05.pdf">Visão geral sobre análise de dados brutos de sequenciamento de genomas e transcriptomas</a>
 <br><br>
 </div>
