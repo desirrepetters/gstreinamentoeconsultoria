@@ -12,7 +12,7 @@ Muitas das perguntas de um estudo são respondidas e muitas hipóteses são test
 <br><br>
 Levando estas questões em consideração, percebemos que simplesmente montar e utilizar todos os reads brutos que saem do equipamento sem qualquer tipo de controle de qualidade não é uma boa estratégia, e é importante avaliar pontos como a qualidade das bases, comprimento e quantidade de reads, e presença de adaptadores e contaminantes.
 <br><br>
-Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/sra">NCBI SRA</a> para download de dados e utilizaremos os softwares FastQC e Trimmomatic (<a href="https://usegalaxy.eu/">na versão online no Galaxy</a> ou instalados em uma distribuição Linux). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gstreinamentoseconsultoria.netlify.app/docs/2023_01/download/">aqui</a>.
+Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/sra">NCBI SRA</a> para download de dados e utilizaremos os softwares FastQC e Trimmomatic (<a href="https://usegalaxy.eu/">na versão online no Galaxy</a> ou instalados em uma distribuição Linux). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/download/">aqui</a>.
 <br><br>
 Ao utilizar estes softwares e servidores, cite as seguintes referências ou agradecimentos em seu trabalho:
 <br><br>
@@ -22,14 +22,14 @@ Ao utilizar estes softwares e servidores, cite as seguintes referências ou agra
 	<th width="650" ><strong>Referência / Agradecimento</strong></th>
   <tr>
     <td>FastQC</td>
-    <td>Andrews S, 2019. FastQC: a quality control tool for high throughput sequence data. Disponível online em: <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/">https://www.bioinformatics.babraham.ac.uk/projects/fastqc/</a></td>
+    <td>Andrews S, 2019. FastQC: a quality control tool for high throughput sequence data. Disponível online em: <a href="https://www.bioinformatics.babraham.ac.uk/projects/fastqc/">https://www.bioinformatics.babraham.ac.uk/projects/fastqc/</a><br><br></td>
   </tr> 
   <tr>
     <td>Trimmomatic</td>
-    <td>Bolger AM, Lohse M, Usadel B, 2014. Trimmomatic: A flexible trimmer for Illumina Sequence Data. <b>Bioinformatics</b> 30, 2114-2120. DOI: <a href="https://doi.org/10.1093/bioinformatics/btu170">10.1093/bioinformatics/btu170</a></td>
+    <td>Bolger AM, Lohse M, Usadel B, 2014. Trimmomatic: A flexible trimmer for Illumina Sequence Data. <b>Bioinformatics</b> 30, 2114-2120. DOI: <a href="https://doi.org/10.1093/bioinformatics/btu170">10.1093/bioinformatics/btu170</a><br><br></td>
   <tr>
     <td>Galaxy Europe</td>
-    <td><i>“The authors acknowledge the support of the Freiburg Galaxy Team: Person X and Björn Grüning, Bioinformatics, University of Freiburg (Germany) funded by the <a href="http://www.sfb992.uni-freiburg.de/">Collaborative Research Centre 992 Medical Epigenetics</a> (<a href="http://www.dfg.de/">DFG</a> grant SFB 992/1 2012) and the German Federal Ministry of Education and Research <a href="http://www.bmbf.de/">BMBF</a> grant 031 A538A <a href="https://www.denbi.de/">de.NBI</a>-RBC.”</i></td>
+    <td><i>“The authors acknowledge the support of the Freiburg Galaxy Team: Person X and Björn Grüning, Bioinformatics, University of Freiburg (Germany) funded by the <a href="http://www.sfb992.uni-freiburg.de/">Collaborative Research Centre 992 Medical Epigenetics</a> (<a href="http://www.dfg.de/">DFG</a> grant SFB 992/1 2012) and the German Federal Ministry of Education and Research <a href="http://www.bmbf.de/">BMBF</a> grant 031 A538A <a href="https://www.denbi.de/">de.NBI</a>-RBC.”</i><br><br></td>
   </tr>
 </table> 
 <br><br>
@@ -188,7 +188,7 @@ fastq-dump --split-files SRR9672751
 ```
 
 <div align="justify">
-Existem duas possibilidades para uso do fastq-dump em relação ao arquivo de entrada. É possível pular a etapa anterior de download e informar o código de acesso diretamente ao comando (como nos exemplos acima) e a ferramenta para o download do arquivo diretamente do NCBI para realizar a conversão (e salvará uma cópia do arquivo SRA na pasta $HOME/ncbi/public/sra/). Caso não deseje pular o download e queira utilizar o arquivo baixado, basta informar a localização do arquivo dentro dos diretórios ao escrever o comando. Por exemplo, se o arquivo tivesse sido baixado na pasta “RNAseq” dentro da pasta “home”, o script seria:
+Existem duas possibilidades para uso do fastq-dump em relação ao arquivo de entrada. É possível pular a etapa anterior de download e informar o código de acesso diretamente ao comando (como nos exemplos acima) e a ferramenta fará o download do arquivo diretamente do NCBI para realizar a conversão (e salvará uma cópia do arquivo SRA na pasta $HOME/ncbi/public/sra/). Caso não deseje pular o download e queira utilizar o arquivo baixado, basta informar a localização do arquivo dentro dos diretórios ao escrever o comando. Por exemplo, se o arquivo tivesse sido baixado na pasta “RNAseq” dentro da pasta “home”, o script seria:
 <br><br>
 </div>
 
