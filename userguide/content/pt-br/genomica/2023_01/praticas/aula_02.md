@@ -86,7 +86,7 @@ Em seguida, caso você deseje combinar dados da biblioteca principal e utilizar 
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_07.png" alt="Opção 'Use an additional set of short-reads' indicando a modalidade 'Enabled' para configuração do SPAdes no Galaxy" align="center">
 </center>
 <br><br>
-Além disso, caso você tenha dados de sequenciamento de reads longos (como PacBio ou Oxford Nanopore) e deseja utilizá-los na montagem para melhor resolução de regiões repetitivas e fechamento de gaps, é possível clicar na aba <i>"Additional reads files" e especificar estes arquivos.
+Além disso, caso você tenha dados de sequenciamento de reads longos (como PacBio ou Oxford Nanopore) e deseja utilizá-los na montagem para melhor resolução de regiões repetitivas e fechamento de gaps, é possível clicar na aba <i>"Additional reads files"</i> e especificar estes arquivos.
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_08.png" alt="Opção 'Additional reads files' indicando as modalidades 'Nanopore reads' e 'PacBio CLR reads' para configuração do SPAdes no Galaxy" align="center">
@@ -122,7 +122,7 @@ Por fim, podemos manter a opção <i>"Set Phred quality offset"</i> no modo de d
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_13.png" alt="Opção 'Set Phred quality offset' indicando a modalidade 'Auto', e opção 'Select optional output files' com as modalidades de arquivo de saída, para configuração do SPAdes no Galaxy" align="center">
 </center>
 <br><br>
-Por fim, basta clicar em “<i>Run Tool</i>” para iniciar a análise. Caso deseje receber uma notificação por e-mail após a conclusão da tarefa, selecione "Yes" na opção "Email notification":
+Por fim, basta clicar em “<i>Run Tool</i>” para iniciar a análise. Caso deseje receber uma notificação por e-mail após a conclusão da tarefa, selecione <i>"Yes"</i> na opção <i>"Email notification"</i>:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_14.png" alt="Opções para configuração da ferramenta SPAdes no Galaxy, indicando Run Tool e Email notification" align="center">
