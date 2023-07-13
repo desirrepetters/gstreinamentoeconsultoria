@@ -47,7 +47,7 @@ Após a realização destas etapas, utilizaremos os arquivos obtidos para as <a 
 Uma das vantagens de trabalhar com as análises diretamente no <a href="https://usegalaxy.org/">Galaxy</a> é a possibilidade utilizar os dados previamente importados do NCBI SRA e processados pelo FastQC e Trimmomatic, sem ter que realizar o download do arquivos no computador. Para realizar a montagem do genoma da linhagem CBS 120486 de Phyllosticta citriasiana com os dados de sequenciamento Illumina, utilizaremos o software SPAdes. Na aba “<i>Tools</i>”, na região esquerda da página, surgirão várias modalidades e submódulos do SPAdes, adaptados à diferentes tipos de dados (como plasmídeos, dados de metagenômica, genomas de SARS-CoV-2, entre outros). Selecione a opção “<i>SPADES - genome assemble for genomes of regular and single-cell projects</i>”:
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_01/aula_02_01.png" alt="Opção 'SPADES - genome assemble for genomes of regular and single-cell projects' na aba Tools do Galaxy" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_01/aula_02_01.png" alt="Opção SPADES - genome assemble for genomes of regular and single-cell projects na aba Tools do Galaxy" align="center">
 </center>
 <br><br>
 Na opção “<i>Operation mode</i>” selecione “<i>Only assembler (--only-assembler)</i>”.
@@ -232,6 +232,13 @@ Na opção seguinte, <i>"Comma-separated list of thresholds (in bp) for gene len
 </div>
 
 ## Avaliação de qualidade de montagem de genoma - Métricas de Conteúdo (BUSCO)
+
+<div align="justify">
+Em breve!
+<br><br>
+</div>
+
+## Montagem de reads de PacBio no Canu
 
 <div align="justify">
 Em breve!
