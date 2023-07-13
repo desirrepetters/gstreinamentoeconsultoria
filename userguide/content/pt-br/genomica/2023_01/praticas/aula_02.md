@@ -211,19 +211,19 @@ Na opção seguinte, intitulada <i>"Lower threshold for a contig length (in bp)"
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_27.png" alt="Opção 'Lower threshold for a contig length (in bp)' indicando a modalidade '500' para configuração do QUAST no Galaxy" align="center">
 </center>
 <br><br>
-Caso você deseje avaliar uma montagem em que os contigs tenham sido organizados em scaffolds (com gaps fechados por meio da adição de N's) ou avaliar um genoma de tamanho maior que 100 milhões de pares de bases, selecione "Yes" para as opções "Are assemblies scaffolds rather than contigs?" e "Is genome large (>100Mbp)?". No nosso exemplo, como nenhuma das situações se aplica, iremos manter a seleção predefinida como "No":
+Caso você deseje avaliar uma montagem em que os contigs tenham sido organizados em scaffolds (com gaps fechados por meio da adição de N's) ou avaliar um genoma de tamanho maior que 100 milhões de pares de bases, selecione <i>"Yes"</i> para as opções <i>"Are assemblies scaffolds rather than contigs?"</i> e <i>"Is genome large (>100Mbp)?"</i>. No nosso exemplo, como nenhuma das situações se aplica, iremos manter a seleção predefinida como "No":
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_28.png" alt="Opção 'Are assemblies scaffolds rather than contigs?' indicando a modalidade 'No', e opção 'Is genome large (>100Mbp)?' indicando a modalidade 'No', para configuração do QUAST no Galaxy" align="center">
 </center>
 <br><br>
-Na aba <i>"Genes"</i>, caso deseje realizar uma predição de genes preliminar para as buscas de genes de RNA ribossomal e uma análise básica de completude com o BUSCO, basta selecionar a modalidade desejada na opção <i>"Tool for gene prediction"</i>. Nesse caso, selecionaremos a modalidade <i>"GeneMarkS if prokaryotes or GeneMark-ES if eukaryotes or fungi":
+Na aba <i>"Genes"</i>, caso deseje realizar uma predição de genes preliminar para as buscas de genes de RNA ribossomal e uma análise básica de completude com o BUSCO, basta selecionar a modalidade desejada na opção <i>"Tool for gene prediction"</i>. Nesse caso, selecionaremos a modalidade <i>"GeneMarkS if prokaryotes or GeneMark-ES if eukaryotes or fungi"</i>:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_29.png" alt="Opção 'Tool for gene prediction' indicando a modalidade 'GeneMarkS if prokaryotes or GeneMark-ES if eukaryotes or fungi' para configuração do QUAST no Galaxy" align="center">
 </center>
 <br><br>
-Na opção seguinte, <i>"Comma-separated list of thresholds (in bp) for gene lengths to find with a finding tool", indique os tamanhos de interesse para busca de genes. Por predefinição, o QUAST sugere os valores de 0, 300, 1500 e 3000 pares de bases, mas estes valores podem ser ajustados para genomas maiores ou casos em que há evidências de que os genes correspondam à sequências mais longas:
+Na opção seguinte, <i>"Comma-separated list of thresholds (in bp) for gene lengths to find with a finding tool"</i>, indique os tamanhos de interesse para busca de genes. Por predefinição, o QUAST sugere os valores de 0, 300, 1500 e 3000 pares de bases, mas estes valores podem ser ajustados para genomas maiores ou casos em que há evidências de que os genes correspondam à sequências mais longas:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_30.png" alt="Opção 'Comma-separated list of thresholds (in bp) for gene lengths to find with a finding tool' indicando a modalidade '0, 300, 1500 e 3000 pares de bases' para configuração do QUAST no Galaxy" align="center">
