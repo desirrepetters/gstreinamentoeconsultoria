@@ -62,7 +62,7 @@ Na aba “<i>Single-end or paired-end short-reads</i>”, na primeira opção po
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_03.png" alt="Opção 'Single-end or paired-end short-reads' indicando a modalidade 'Paired-end: individual datasets' para configuração do SPAdes no Galaxy" align="center">
 </center>
 <br><br>
-Em seguida, na aba "FASTA/FASTQ file(s): forward reads" devemos especificar qual arquivo corresponde ao conjunto de reads forward, selecionando o arquivo <i>"Trimmomatic on SRR9672751:forward (R1 paired). Consequentemente, na aba "FASTA/FASTQ file(s): reverse reads", selecionaremos o arquivo <i>"Trimmomatic on SRR9672751:reverse (R2 paired)</i> como o arquivo com o o conjunto de reads reverse:
+Em seguida, na aba "FASTA/FASTQ file(s): forward reads" devemos especificar qual arquivo corresponde ao conjunto de reads forward, selecionando o arquivo <i>"Trimmomatic on SRR9672751:forward (R1 paired)"</i>. Consequentemente, na aba <i>"FASTA/FASTQ file(s): reverse reads"</i>, selecionaremos o arquivo <i>"Trimmomatic on SRR9672751:reverse (R2 paired)</i> como o arquivo com o o conjunto de reads reverse:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_04.png" alt="Opções 'FASTA/FASTQ file(s): forward reads' e 'FASTA/FASTQ file(s): reverse reads' indicando os arquivos correspondentes para configuração do SPAdes no Galaxy" align="center">
