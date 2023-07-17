@@ -247,7 +247,47 @@ Nas opções seguintes configuraremos alguns parâmetros relativos ao tamanho e 
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_33.png" alt="Opção 'Minimum length of alignment' indicando a modalidade '65' para configuração do QUAST no Galaxy" align="center">
 </center>
 <br><br>
-
+Em seguida, configuraremos uma opção relevante especialmente no contexto de montagens de genomas com grande quantidade de sequências repetitivas. A opção <i>"How processing equally good alignments of a contig (probably repeats)?"</i> se refere aos procedimentos realizados pelo QUAST quando há vários alinhamentos de boa qualidade de um contig. Por predefinição, a modalidade <i>"Take only one (the very best one)"</i> está configurada, mas é possível modificá-la para utilizar todos os alinhamentos (<i>"Use all alignments"</i>). Esta mudança não é recomendada, exceto em casos de montagem de metagenomas. A outra modalidade, <i>"Skip such alignments"</i> também é não recomendada, dada a possibilidade de perda de informações no caso de montagens altamente repetitivas.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_34.png" alt="Opção 'How processing equally good alignments of a contig (probably repeats)?' indicando a modalidade 'Take only one (the very best one)' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Na opção seguinte, <i>"Score S for defining equally good alignments of a single contig"</i>, atribui-se o score S utilizado para filtrar os alinhamentos. Todos os alinhamentos são ranqueados de acordo com o comprimento do alinhamento multiplicado pela porcentagem de identidade das sequências (LEN x IDY%). De acordo com o score S, todos os alinhamentos com pontuação menor do que S multiplicado pelo valor máximo de ranqueamento dos alinhamentos (S x best(LEN x IDY%) são descartados. Por predefinição, o valor de 0,99 para o score S é utilizado, mas este valor pode ser modificado para qualquer valor entre 0,8 e 1.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_35.png" alt="Opção 'Score S for defining equally good alignments of a single contig' indicando a modalidade '0,99' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Na opção seguinte, <i>"Fragmented reference genome"</i>, podemos manter a modalidade predefinida como <i>"No"</i>, para não realizar a fragmentação do genoma de referência antes de detectar potenciais erros de montagem. 
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_36.png" alt="Opção 'Fragmented reference genome' indicando a modalidade 'No' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+As duas próximas opções são relevantes somente para montagens que além dos reads curtos, utilizem blibiotecas mate-pair ou também combinem reads longos como reads de PacBio SMRT ou Oxford Nanopore, para ajudar a delimitar um possível tamanho máximo para a montagem. No nosso exemplo, como utilizaremos somente reads curtos de uma biblioteca paired-end, deixaremos a opção <i>"Simulate upper bound assembly"</i> com a modalidade <i>"No"</i>, e a opção <i>"Minimal number of 'connecting reads' needed for joining upper bound contigs into a scaffold"</i> em branco:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_37.png" alt="Opção 'Simulate upper bound assembly' indicando a modalidade 'No', e opção 'Minimal number of 'connecting reads' needed for joining upper bound contigs into a scaffold' indicando a modalidade 'em branco', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Por fim, para a última opção da aba "Alignments", intitulada <i>"Minimal local missassembly size"</i>, podemos definir o valor de corte de comprimento em pares de bases para detecção local de regiões de erros de montagem. O valor predefinido é de 200 pares de bases, mas pode ser aumentado até o limite de 1000 pares de bases.,<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_38.png" alt="Opção 'Minimal local missassembly size' indicando a modalidade '200' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Na aba <i>"Advanced options"</i> configuraremos algumas opções relativas aos tamanhos de contigs utilizados para filtrar e avaliar os resultados. Na primeira opção, <i>"Comma-separated list of contig length thresholds (in bp)"</i>, podemos definir vários valores mínimos de comprimento de contigs para filtrar e reavaliar as métricas de contiguidade. Em montagens de baixa contiguidade e muito fragmentadas, espera-se grande variação nos resultados ao utilizar diferentes comprimentos de contig para filtragem, de modo que os resultados gerados por esta opção são muito úteis para avaliação de métricas de contiguidade. Por padrão, são utilizados os comprimentos mínimos de 0 e 1000 pares de bases, mas podemos adicionar alguns outros valores úteis como 5000, 10000, 25000, 50000 e 100000 pares de bases:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_39.png" alt="Opção 'Comma-separated list of contig length thresholds (in bp)' indicando a modalidade '0, 1000, 5000, 10000, 25000, 50000, 100000' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Na opção seguinte, <i>"Break contigs at every misassembly event (including local ones) to compute NAx and NGAx statistics?"</i>, é recomendável manter a predefinição como <i>"No"</i>, pois em alguns casos as quebras excessivas em qualquer evento de diferença entre montagens numa escala local podem impactar drasticamente as estatísticas de NAx e NGAx. Por padrão, o QUAST só realiza estas quebras e inclui no cálculo de NAx e NGAx em casos de diferenças extensas e de larga escala entre as montagens. Para a opção seguinte, <i>"Lower threshold for the relocation size (gap or overlap size between left and right flanking sequence)"</i>, que estabelece o tamanho mínimo para considerar uma região como sendo um evento de relocação, podemos manter o valor predefinido de 1000 pares de bases. Este valor pode ser alterado, desde que seja maior que 85 pares de bases:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_40.png" alt="Opção 'Break contigs at every misassembly event (including local ones) to compute NAx and NGAx statistics?' indicando a modalidade 'No', e opção 'Lower threshold for the relocation size (gap or overlap size between left and right flanking sequence)' indicando a modalidade '1000', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
 </div>
 
 ## Avaliação de qualidade de montagem de genoma - Métricas de Conteúdo (BUSCO)
