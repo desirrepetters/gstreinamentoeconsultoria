@@ -116,7 +116,7 @@ Caso deseje especificar manualmente os tamanhos de k-mers, basta modificar a op�
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_12.png" alt="Opção 'Select k-mer detection option' indicando a modalidade 'User-specific', com valores de k-mer de 21, 33, 55 e 77 indicados na opção 'K-mer size values', para configuração do SPAdes no Galaxy" align="center">
 </center>
 <br><br>
-Por fim, podemos manter a opção <i>"Set Phred quality offset"</i> no modo de detecção automática (<i>"Auto"</i>), e selecionar os arquivos de saída desejados na aba <i>"Select optional output files"</i>. Por padrão, o SPAdes oferece a opção de gerar tanto contigs e scaffolds, bem como os respectivos grafos das montagens de contigs (<i>"Assembly graph"</i>) e de scaffolds (<i>"Assembly graph with scaffolds"</i>). Caso deseje remover e não gerar uma das modalidades de arquivo de saída, basta clicar no ícone de "X" e deletar o tipo de arquivo correspondente:
+Em seguida, podemos manter a opção <i>"Set Phred quality offset"</i> no modo de detecção automática (<i>"Auto"</i>), e selecionar os arquivos de saída desejados na aba <i>"Select optional output files"</i>. Por padrão, o SPAdes oferece a opção de gerar tanto contigs e scaffolds, bem como os respectivos grafos das montagens de contigs (<i>"Assembly graph"</i>) e de scaffolds (<i>"Assembly graph with scaffolds"</i>). Caso deseje remover e não gerar uma das modalidades de arquivo de saída, basta clicar no ícone de "X" e deletar o tipo de arquivo correspondente:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_13.png" alt="Opção 'Set Phred quality offset' indicando a modalidade 'Auto', e opção 'Select optional output files' com as modalidades de arquivo de saída, para configuração do SPAdes no Galaxy" align="center">
@@ -286,6 +286,36 @@ Na opção seguinte, <i>"Break contigs at every misassembly event (including loc
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_40.png" alt="Opção 'Break contigs at every misassembly event (including local ones) to compute NAx and NGAx statistics?' indicando a modalidade 'No', e opção 'Lower threshold for the relocation size (gap or overlap size between left and right flanking sequence)' indicando a modalidade '1000', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Para as próximas opções, <i>"Max allowed scaffold gap length difference for detecting corresponding type of misassemblies"</i> e <i>"Lower threshold for detecting partially unaligned contigs"</i>, podemos utilizar os valores pré-definidos de 10000 e 500 pares de bases, respectivamente. A primeira opção se refere ao comprimento mínimo em pares de bases para que uma região seja considerada como um evento de relocação de maior escala. Já a segunda se refere ao tamanho mínimo que contigs parcialmente não alinhados precisam ter para serem levados em consideração nos cálculos das métricas de contiguidade, para não incluir contigs muito pequenos e gerar distorções nos cálculos. 
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_41.png" alt="Opção 'Max allowed scaffold gap length difference for detecting corresponding type of misassemblies' indicando a modalidade '10000', e opção 'Lower threshold for detecting partially unaligned contigs' indicando a modalidade '500', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Para as opções seguintes, também podemos utilizar as modalidades pré-definidas. Para a opção <i>"Distinguish contigs with more than 50% unaligned bases as a separate group of contigs?"<i/> podemos manter a modalidade <i>"Yes"<i/>, para que contigs que apresentem extensas regiões não alinhadas ao genoma de referência sejam distinguidos como um grupo separado de contigs. Para a opção seguinte, <i>"Fragment max indent"</i>, deixaremos o valor em branco, visto que não selecionamos a opção de fragmentação do genoma de referência em uma etapa anterior:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_42.png" alt="Opção 'Distinguish contigs with more than 50% unaligned bases as a separate group of contigs?' indicando a modalidade 'Yes', e opção 'Fragment max indent' indicando a modalidade 'em branco', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Por fim, nas duas últimas opções da aba <i>"Alignments"</i>, podemos direcionar a organização do arquivo de saída dos resultados. Na opção <i>"Report all metrics"</i>, deixaremos a modalidade <i>"No"</i>, para apresentar no arquivo de saída somente as métricas relevantes à análise em questão. Por exemplo, em casos em que não é realizada uma comparação com genoma de referência, o QUAST omitirá essa seção dos arquivos de resultados, deixando o arquivo mais enxuto. Para a opção <i>"Report Nx, Lx, etc metrics for the specific value of 'x'"</i>, podemos selecionar qual valor queremos que o arquivo saída apresente  além das típicas métricas de N50, L50, NG50 e NGA50. Por padrão, a modalidade pré-definida para o valor de 'x' é 90, mas este valor pode ser modificado:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_43.png" alt="Opção 'Report all metrics' indicando a modalidade 'No', e opção 'Report Nx, Lx, etc metrics for the specific value of 'x'' indicando a modalidade '90', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Para a opção <i>"Output files"</i> podemos selecionar os formatos de arquivos de saída a serem gerados pela análise. Além da modalidade <i>"HTML reports"</i>, para análises de montagens de genoma é importante também selecionar as modalidades <i>"PDF reports"</i>, <i>"Tabular reports"</i>, <i>"Log file"</i>. Para a opção <i>"Job Resource Parameters"</i>, manteremos a modalidade predefinida de <i>"Use default job resource parameters"<i/>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_44.png" alt="Opção 'Output files' indicando as modalidades 'HTML reports', 'PDF reports', 'Tabular reports' e 'Log file', e opção 'Job Resource Parameters' indicando a modalidade 'Use default job resource parameters' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Por fim, basta clicar em <i>“Run Tool”</i> para iniciar a análise. Caso deseje receber uma notificação por e-mail após a conclusão da tarefa, selecione <i>"Yes"</i> na opção <i>"Email notification"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_45.png" alt="Opções para configuração da ferramenta SPAdes no Galaxy, indicando Run Tool e Email notification" align="center">
 </center>
 <br><br>
 </div>
