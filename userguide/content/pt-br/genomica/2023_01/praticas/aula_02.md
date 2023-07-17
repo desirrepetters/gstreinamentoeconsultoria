@@ -229,6 +229,25 @@ Na opção seguinte, <i>"Comma-separated list of thresholds (in bp) for gene len
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_30.png" alt="Opção 'Comma-separated list of thresholds (in bp) for gene lengths to find with a finding tool' indicando a modalidade '0, 300, 1500 e 3000 pares de bases' para configuração do QUAST no Galaxy" align="center">
 </center>
 <br><br>
+Em relação às opções seguintes, <i>"Enables ribosomal RNA gene finding?"</i> e <i>"Enables search for Universal Single-Copy Orthologs using BUSCO?"</i>, podemos selecionar a modalidade <i>"Yes"</i>, para que o QUAST forneça a quantidade de genes de RNA ribossomal e porcentagem de completude segundo a quantidade de BUSCOs no corpo do arquivo de resultados em PDF. O uso destas opções não descarta a necessidade de realizar estas análises posteriormente de forma separada para obter um resultado mais completo, mas já fornece uma primeira indicação do grau de completude da montagem.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_31.png" alt="Opção 'Enables ribosomal RNA gene finding?' indicando a modalidade 'Yes', e opção 'Enables search for Universal Single-Copy Orthologs using BUSCO?' indicando a modalidade 'Yes', para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Seguindo para a aba <i>"Alignments"</i>, configuraremos parâmetros que são utilizados nos alinhamentos para a comparação com o genoma de referência. Na primeira opção, <i>"Use all alignments as in QUAST v.1.. to compute genome fraction, # genomic features, # operon metrics"</i>, utilizaremos a modalidade <i>"No"</i> conforme a configuração já predefinida. Dessa forma, o QUAST filtrará alinhamentos ambíguos e redundantes, e manterá somente o melhor alinhamento:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_32.png" alt="Opção 'Use all alignments as in QUAST v.1.. to compute genome fraction, # genomic features, # operon metrics' indicando a modalidade 'No' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+Nas opções seguintes configuraremos alguns parâmetros relativos ao tamanho e score dos alinhamentos. Primeiramente, para a opção <i>"Minimum length of alignment"</i> podemos especificar o comprimento mínimo, em pares de bases, dos alinhamentos a serem considerados pelo QUAST durante a análise. Por predefinição, alinhamentos de comprimento menor que 65 pares de bases são sempre filtrados e desconsiderados, mas é possível aumentar este valor:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_33.png" alt="Opção 'Minimum length of alignment' indicando a modalidade '65' para configuração do QUAST no Galaxy" align="center">
+</center>
+<br><br>
+
 </div>
 
 ## Avaliação de qualidade de montagem de genoma - Métricas de Conteúdo (BUSCO)
