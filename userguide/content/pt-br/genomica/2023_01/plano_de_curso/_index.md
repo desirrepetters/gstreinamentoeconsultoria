@@ -50,19 +50,19 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
   <td style="vertical-align:middle;">17/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_08"><br>Discussão da atividade assíncrona de montagem de genomas<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_08"><br>Discussão da atividade assíncrona de montagem de genomas. Predição e anotação gênica (princípios gerais e comparação entre abordagens).<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 09 (Síncrona)</td>
   <td style="vertical-align:middle;">18/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_09"><br>Anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos. Anotação de elementos transponíveis e sua classificação<br></a></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_09"><br>Noções básicas sobre elementos transponíveis<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 10 (Síncrona)</td>
   <td style="vertical-align:middle;">19/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_10">Noções básicas sobre elementos transponíveis</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_10">Anotação de elementos transponíveis e sua classificação</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11 (Síncrona)</td>
   <td style="vertical-align:middle;">20/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_11">Anotação de elementos transponíveis e sua classificação</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_11">Anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Atividade 02 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
