@@ -6,7 +6,7 @@ description: >
   Softwares utilizados: SPAdes, Canu, QUAST, BUSCO.
 ---
 <div align="justify">
-Após o a avaliação dos dados brutos de sequenciamento e devido processamento para remoção de reads ou bases de baixa qualidade, são obtidos arquivos que servem de base para a montagem de genomas e transcriptomas. 
+Após a avaliação dos dados brutos de sequenciamento e devido processamento para remoção de reads ou bases de baixa qualidade, são obtidos arquivos que servem de base para a montagem de genomas e transcriptomas. 
 <br><br>
 Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/sra">NCBI Assembly</a> para download de montagens de genomas e utilizaremos os softwares SPAdes, Canu, QUAST e BUSCO (<a href="https://usegalaxy.eu/">na versão online no Galaxy</a> ou instalados em uma distribuição Linux). Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/download/">aqui</a>.
 <br><br>
@@ -38,7 +38,7 @@ Nesta atividade prática iremos:
 <li>Avaliar as montagens em relação à métricas básicas de contiguidade, tais como N50, L50, quantidade e tamanho dos contigs</li>
 <li>Avaliar as montagens em relação à métricas de conteúdo, tais como distribuição de conteúdo GC, completude e presença de contaminantes</li>
 </ul>
-Após a realização destas etapas, utilizaremos os arquivos obtidos para as <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/praticas/aula_03">atividades práticas de predição e anotação de genes</a>
+Após a realização destas etapas, utilizaremos os arquivos obtidos para as atividades práticas de <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/praticas/aula_03">detecção de sequências repetitivas e elementos transponíveis</a> e de <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/praticas/aula_04">predição e anotação de genes</a>.
 </div>
 
 ## Montagem de genomas com reads Illumina no Galaxy
@@ -323,7 +323,12 @@ Por fim, basta clicar em <i>“Run Tool”</i> para iniciar a análise. Caso des
 ## Avaliação de qualidade de montagem de genoma - Métricas de Conteúdo (BUSCO)
 
 <div align="justify">
-Em breve!
+Além das métricas de contiguidade já avaliadas pelo QUAST, a qualidade de uma montagem de genoma pode ser avaliada também segundo métricas de conteúdo, sendo uma destas a completude. Para avaliar a completude da montagem, utilizaremos o software BUSCO. Na aba “<i>Tools</i>”, na região esquerda da página, selecione a opção “<i>BUSCO - assess genome assembly and annotation completeness</i>”:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_02/aula_02_45.png" alt="Opção 'BUSCO - assess genome assembly and annotation completeness' na aba Tools do Galaxy" align="center">
+</center>
+<br><br>
 <br><br>
 </div>
 
