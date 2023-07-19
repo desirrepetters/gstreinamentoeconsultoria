@@ -10,16 +10,16 @@ description: >
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Noções básicas sobre elementos transponíveis</i>
+<i>Noções básicas sobre elementos transponíveis em eucariotos</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/USkDl-L-aLw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Classificação de elementos transponíveis em eucariotos e elementos genéticos móveis em procariotos</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fgewrJ6vcO8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
