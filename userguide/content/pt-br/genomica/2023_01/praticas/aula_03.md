@@ -8,7 +8,7 @@ description: >
 <div align="justify">
 Após a avaliação da qualidade das montagens de genomas de interesse, é hora de prospectar e avaliar as sequências em busca de sequências de relevância evolutiva, funcional e estrutural, tais como genes e sequências repetitivas. Neste momento, iremos avaliar a presença de sequências repetitivas e elementos transponíveis em montagens de genomas, para realizar a anotação e marcação destas sequências antes de prosseguir para as etapas de predição gênica. 
 <br><br>
-Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/sra">NCBI Assembly</a> para download de montagens de genomas e utilizaremos os softwares RepeatModeler, RepeatMasker (<a href="https://usegalaxy.eu/">na versão online no Galaxy</a> ou instalados em uma distribuição Linux), bem como a versão online do <a href="https://www-is.biotoul.fr/index.php">ISfinder</a>. Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/download/">aqui</a>.
+Para este tutorial, acessaremos o <a href="https://www.ncbi.nlm.nih.gov/assembly">NCBI Assembly</a> para download de montagens de genomas e utilizaremos os softwares RepeatModeler, RepeatMasker (<a href="https://usegalaxy.eu/">na versão online no Galaxy</a> ou instalados em uma distribuição Linux), bem como a versão online do <a href="https://www-is.biotoul.fr/index.php">ISfinder</a>. Se você ainda não tem estes softwares instalados, pode encontrar instruções <a href="https://gstreinamentoseconsultoria.netlify.app/genomica/2023_01/download/">aqui</a>.
 <br><br>
 Ao utilizar estes softwares e servidores, cite as seguintes referências ou agradecimentos em seu trabalho:
 <br><br>
@@ -24,7 +24,7 @@ Ao utilizar estes softwares e servidores, cite as seguintes referências ou agra
 <br><br>
 Há diversas diferenças em relação aos processos de detecção de sequências repetitivas em genomas procarióticos e eucarióticos, bem como diferenças nas abordagens para anotação desta sequências nos genomas eucarióticos. Em função da grande diversidade destes tipos de elementos em genomas eucarióticos, existem vários softwares especializados em estratégias <i>de novo</i>, baseadas em homologia ou repetitividade, bem como abordagens híbridas, detectando vários tipos de elementos transponíveis e sequências repetitivas. Já para genomas procarióticos, em geral os softwares focam na detecção de sequências de inserção. Sendo assim, neste tutorial abordaremos a detecção de sequências repetitivas em genomas procarióticos e eucarióticos separadamente.
 <br><br>
-Clique no link abaixo para acessar as páginas do NCBI SRA e NCBI Assembly que contém os arquivos que serão utilizados nesta prática:
+Clique no link abaixo para acessar as páginas do NCBI Assembly que contém os arquivos que serão utilizados nesta prática:
 <br><br>
 <ul>
 <li><a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003018515.1/">Montagem de genoma de <i>Escherichia coli</i> (linhagem 2013C-3996)</a></li>
@@ -89,13 +89,13 @@ Após o download da biblioteca no formato .tar.gz, bastaria descompactar o arqui
 ## Detecção de sequências repetitivas com o RepeatMasker
 
 <div align="justify">
-Possuindo uma biblioteca de sequências repetitivas de referência, seja uma construída com o RepeatModeler, obtida a partir do Repbase, ou a que é fornecida pelo próprio RepeatMasker, podemos prosseguir para a etapa de anotação das sequências repetitivas no genoma de interesse. Na aba “<i>Tools</i>” do Galaxy, selecione a opção “<i>RepeatMasker - screen DNA sequences for interspersed repeats and low complexity regions</i>”:
+Possuindo uma biblioteca de sequências repetitivas de referência, seja uma construída com o RepeatModeler, ou uma biblioteca obtida a partir do Repbase, ou ainda a biblioteca predefinida que é fornecida pelo próprio RepeatMasker, podemos prosseguir para a etapa de anotação das sequências repetitivas no genoma de interesse. Na aba “<i>Tools</i>” do Galaxy, selecione a opção “<i>RepeatMasker - screen DNA sequences for interspersed repeats and low complexity regions</i>”:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_06.png" alt="Opção 'RepeatMasker - screen DNA sequences for interspersed repeats and low complexity regions' na aba Tools do Galaxy" align="center">
 </center>
 <br><br>
-Na opção <i>"Genomic DNA"</i> selecionaremos a montagem de genoma de interesse. Nesse primeiro momento, utilizaremos a montagem de genoma da linhagem CBS 120486 de Phyllosticta citriasiana:
+Na opção <i>"Genomic DNA"</i> selecionaremos a montagem de genoma de interesse. Nesse primeiro momento, utilizaremos a montagem de genoma da linhagem CBS 120486 de <i>Phyllosticta citriasiana</i>:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_07.png" alt="Opção 'Genomic DNA' indicando a modalidade 'PCitriasiana_CBS120486.fasta' para configuração do RepeatMasker no Galaxy" align="center">
@@ -131,7 +131,7 @@ As opções seguintes são relevantes para a análise de genomas de roedores (<i
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_12.png" alt="Opção 'Only check for rodent specific repeats' indicando a modalidade 'No', opção 'Only check for primate specific repeats' indicando a modalidade 'No', para configuração do RepeatMasker no Galaxy" align="center">
 </center>
 <br><br>
-As opções seguintes se referem a como o RepeatMasker lidará com sequências repetitivas que não necessariamente constituem elementos transponíveis, tais como repetições em tandem, regiões de DNA satélite e repetições intercalares. Neste tutorial, selecionaremos a modalidade <i>"No"</i> para que as buscas por repetições em tandem e de DNA satélite (<i>"No low complexity masking"</i>), repetições intercalares (<i>"No interspersed repeat masking"</i>) e sequências de RNAs funcionais transcritos pela RNA polimerase III (<i>"No repeat-like-RNA masking"</i> sejam realizadas e estas sequências sejam marcadas. Caso deseje pular estas etapas, basta selecionar a modalidade <i>"Yes"</i> para todas as opções:
+As opções seguintes se referem a como o RepeatMasker lidará com sequências repetitivas que não necessariamente constituem elementos transponíveis, tais como repetições em tandem, regiões de DNA satélite e repetições intercalares. Neste tutorial, selecionaremos a modalidade <i>"No"</i> para que as buscas por repetições em tandem e de DNA satélite (<i>"No low complexity masking"</i>), repetições intercalares (boa parte dos elementros transponíveis em que estamos interessados!) (<i>"No interspersed repeat masking"</i>) e sequências de RNAs funcionais transcritos pela RNA polimerase III (<i>"No repeat-like-RNA masking"</i> sejam realizadas e estas sequências sejam marcadas. Caso deseje pular estas etapas, basta selecionar a modalidade <i>"Yes"</i> para todas as opções:
  <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_13.png" alt="Opção 'No low complexity masking' indicando a modalidade 'No', opção 'No interspersed repeat masking' indicando a modalidade 'No' e opção 'No repeat-like-RNA masking' indicando a modalidade 'No', para configuração do RepeatMasker no Galaxy" align="center">
@@ -144,7 +144,7 @@ Na sequência, também selecionaremos a modalidade <i>"No"</i> para as opções 
 </center>
 <br><br>
  Em seguida, para as opções <i>"Search speed vs sensitivity trade-off"</i>, que estabelece o balanço entre velocidade e sensibilidade da análise, selecionaremos a opção predefinida <i>"Default"</i>. É possível alterar este balanço para que a análise fique mais rápida, porém menos precisa (<i>"Quick (5-10% less sensitive, 3-4 times speedup"</i> ou <i>"Rush (10% less sensitive)"</i>), ou mais lenta e mais precisa (<i>"Slow (0-5% more sensitive, 2.5 times slowdown"</i>):
- <br><br>
+<br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_15.png" alt="Opção 'Search speed vs sensitivity trade-off' indicando a modalidade 'Default' para configuração do RepeatMasker no Galaxy" align="center">
 </center>
@@ -167,7 +167,7 @@ Por fim, temos as três últimas opções mais relacionadas ao formato e informa
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_18.png" alt="Opção 'Output alignments file' indicando a modalidade 'Yes', opção 'Invert alignments in alignment file' indicando a modalidade 'No' e opção 'Output list of potentially polymorphic microsatellites' indicando a modalidade 'Yes', para configuração do RepeatMasker no Galaxy" align="center">
 </center>
 <br><br>
-Para a opção <i>"Job Resource Parameters"</i>, manteremos a modalidade predefinida de <i>"Use default job resource parameters"<i/>. Por fim, basta clicar em <i>“Run Tool”</i> para iniciar a análise. Caso deseje receber uma notificação por e-mail após a conclusão da tarefa, selecione <i>"Yes"</i> na opção <i>"Email notification"</i>:
+Para a opção <i>"Job Resource Parameters"</i>, manteremos a modalidade predefinida de <i>"Use default job resource parameters"</i>. Por fim, basta clicar em <i>“Run Tool”</i> para iniciar a análise. Caso deseje receber uma notificação por e-mail após a conclusão da tarefa, selecione <i>"Yes"</i> na opção <i>"Email notification"</i>:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_19.png" alt="Opção 'Job Resource Parameters' indicando a modalidade 'Use default job resource parameters', e opções para configuração da ferramenta RepeatMasker no Galaxy, indicando 'Run Tool' e 'Email notification'" align="center">
@@ -305,6 +305,5 @@ Aguarde o término da análise e o redirecionamento automático para a página d
 </center>
 <br><br>
 </div>
-
 
 
