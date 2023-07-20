@@ -1,9 +1,9 @@
 ---
-title: "Aula 12 - Discussão da atividade assíncrona de anotação de genomas"
-linkTitle: "Aula 12 - Discussão da atividade assíncrona de anotação de genomas"
+title: "Aula 12 - Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos"
+linkTitle: "Aula 12 - Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos"
 weight: 4
 description: >
-  Encontro do dia 25 de julho com aula de discussão da atividade assíncrona de anotação de genomas
+  Encontro do dia 25 de julho com aula sobre categorias de genes: genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos
 ---
 
 <br>
