@@ -1,9 +1,9 @@
 ---
-title: "Aula 13 - Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos"
-linkTitle: "Aula 13 - Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos"
+title: "Aula 13 - Discussão da atividade assíncrona de anotação de genomas"
+linkTitle: "Aula 13 - Discussão da atividade assíncrona de anotação de genomas"
 weight: 4
 description: >
-  Encontro do dia 26 de julho com aula sobre categorias de genes: genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos
+  Encontro do dia 26 de julho com aula de discussão da atividade assíncrona de anotação de genomas
 ---
 
 <br>

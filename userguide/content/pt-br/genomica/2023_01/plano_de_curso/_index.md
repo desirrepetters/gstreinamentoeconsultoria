@@ -64,17 +64,17 @@ description: >
   <td style="vertical-align:middle;">20/07/2023 <br>(16:00 - 20:00)</td>
   <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_11">Anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos</a><br></td>
   <tr>
+  <td style="vertical-align:middle;">Aula 12 (Síncrona)</td>
+  <td style="vertical-align:middle;">24/07/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_12">Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos</a><br></td>
+  <tr>
   <td style="vertical-align:middle;">Atividade 02 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_02">Atividade assíncrona: Anotação de genomas (prática)</a><br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 12 (Síncrona)</td>
-  <td style="vertical-align:middle;">25/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_12">Discussão da atividade assíncrona de anotação de genomas</a><br></td>
-  <tr>
   <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
   <td style="vertical-align:middle;">26/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_13">Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_13">Discussão da atividade assíncrona de anotação de genomas</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 14 (Síncrona)</td>
   <td style="vertical-align:middle;">27/07/2023 <br>(16:00 - 20:00)</td>
