@@ -4,6 +4,7 @@ linkTitle: "Aula 10 - Anotação de elementos transponíveis e sua classificaç�
 weight: 4
 description: >
   Encontro do dia 19 de julho com aula sobre anotação de elementos transponíveis e sua classificação
+---
 
 <br>
 <div align="center">
