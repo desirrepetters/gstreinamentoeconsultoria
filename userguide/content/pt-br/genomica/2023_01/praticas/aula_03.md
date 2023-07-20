@@ -218,7 +218,7 @@ Em seguida, é possível selecionar quais módulos do edta devem ser utilizados.
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_24.png" alt="Opção 'Genome File' indicando a modalidade 'run the entire pipeline (all)' para configuração do edta no Galaxy Europe" align="center">
 </center>
 <br><br>
-Nas opções <i>"Coding Sequence File"</i> é possível fornecer um arquivo FASTA contendo as sequências codificantes encontradas para o genoma analisado ou de espécies filogeneticamente próximas. Neste primeiro momento deixaremos esta opção em branco, mas após a nossa próxima prática de <a href="">predição de genes</a> você pode retornar ao edta e fornecer estas sequências e posteriormente comparar os resultados. Já para a opção <i>"Curated Library file"</i> é possível fornecer um arquivo no formato FASTA contendo sequências de elementos transponíveis que sejam confiáveis, tendo já passado por um processo de curadoria manual. Nesse momento, deixaremos esta opção em branco também:
+Nas opções <i>"Coding Sequence File"</i> é possível fornecer um arquivo FASTA contendo as sequências codificantes encontradas para o genoma analisado ou de espécies filogeneticamente próximas. Neste primeiro momento deixaremos esta opção em branco, mas após a nossa próxima prática de <a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/praticas/aula_04/">predição de genes</a> você pode retornar ao edta e fornecer estas sequências e posteriormente comparar os resultados. Já para a opção <i>"Curated Library file"</i> é possível fornecer um arquivo no formato FASTA contendo sequências de elementos transponíveis que sejam confiáveis, tendo já passado por um processo de curadoria manual. Nesse momento, deixaremos esta opção em branco também:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_25.png" alt="Opção 'Coding Sequence File' indicando a modalidade 'em branco' e opção 'Curated Library file' indicando a modalidade 'em branco' para configuração do edta no Galaxy Europe" align="center">
@@ -245,17 +245,17 @@ Por fim, basta clicar em <i>“Run Tool”</i> para iniciar a análise. Caso des
 Repita o mesmo processo para a montagem de genoma da linhagem CGMCC 3.14344 de <i>Phyllosticta citriasiana</i>. Após a conclusão das duas tarefas, cada análise terá sete arquivos de saída: 
 <br><br>
 <ul>
-<li>Arquivo de montagem de genoma com as sequências repetitivas com softmasking (<i>RepeatMasker masked sequence</i>, no formato FASTA)</li>
-<li>Arquivo log da análise (<i>RepeatMasker output log</i>, no formato TABULAR)</li>
-<li>Arquivo com estatísticas e quantidade de sequências repetitivas encontradas (<i>RepeatMasker repeat statistics</i>, no formato TXT)</li>
-<li>Arquivo com catálogo de sequências repetitivas encontradas (<i>RepeatMasker repeat catalogue</i>, no formato TXT)</li>
-<li>Arquivo de alinhamento das sequências repetitivas encontradas vs. sequências de referência utilizadas (<i>RepeatMasker alignment</i>, no formato TXT)</li>
-<li>Arquivo do conjunto de microssatélites potencialmente polimórficos (<i>RepeatMasker possible polymorphic repeats</i>, no formato TABULAR)</li>
-<li>Arquivo de anotação com coordenadas das sequências repetitivas (<i>RepeatMasker repeat annotation</i>, no formato GFF)</li>
+<li>Arquivo de biblioteca não-redundante de sequências de elementos transponíveis (<i>Non-redundant TE Library</i>, no formato ...)</li>
+<li>Arquivo de anotação com coordenadas das sequências repetitivas na montagem de genoma(<i>Whole Genome TE Annotation</i>, no formato GFF3)</li>
+<li>Arquivo com informações gerais sobre anotação de sequências repetitivas no genoma(<i>Summary of Whole Genome TE Annotation</i>, no formato XML)</li>
+<li>Arquivo de anotação com coordenadas das sequências repetitivas submetidas ao processo de masking (<i>Low_Threshold_TE_Masking</i>, no formato GFF3)</li>
+<li>Arquivo com dados de inconsistência na anotação de TEs (<i>Simple TE Annotation Inconsistency</i>, no formato XML)</li>
+<li>Arquivo com dados de inconsistência na anotação de TEs (<i>Nested TE Annotation Inconsistency</i>, no formato XML)</li>
+<li>Arquivo com dados de inconsistência na anotação de TEs (<i>Overall TE Annotation Inconsistency</i>, no formato XML)</li>
 </ul>
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_20.png" alt="Arquivos de saída 'RepeatMasker masked sequence', 'RepeatMasker output log', 'RepeatMasker repeat statistics', 'RepeatMasker repeat catalogue', 'RepeatMasker alignment', 'RepeatMasker possible polymorphic repeats' e 'RepeatMasker repeat annotation' como resultados do RepeatMasker no Galaxy" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_29.png" alt="Arquivos de saída 'Non-redundant TE Library', 'Whole Genome TE Annotation', 'Summary of Whole Genome TE Annotation', 'Low_Threshold_TE_Masking', 'Simple TE Annotation Inconsistency', 'Nested TE Annotation Inconsistency' e 'Overall TE Annotation Inconsistency' como resultados do EDTA no Galaxy Europe" align="center">
 </center>
 <br><br>
 </div>
