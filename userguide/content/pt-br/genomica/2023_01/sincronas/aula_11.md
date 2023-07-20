@@ -1,9 +1,9 @@
 ---
-title: "Aula 11 - Anotação de elementos transponíveis e sua classificação"
-linkTitle: "Aula 11 - Anotação de elementos transponíveis e sua classificação"
+title: "Aula 11 - Anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos"
+linkTitle: "Aula 11 - Anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos"
 weight: 4
 description: >
-  Encontro do dia 20 de julho com aula sobre anotação de elementos transponíveis e sua classificação
+  Encontro do dia 20 de julho com aula sobre anotação gênica com comparação entre metodologias ab initio, baseadas em RNA-seq, baseadas em transcriptoma, baseadas em proteínas e consenso entre todos os métodos, e detecção de genes ortólogos
 ---
 
 <br>
