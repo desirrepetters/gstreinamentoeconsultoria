@@ -269,7 +269,6 @@ Uma alternativa para detecção de elementos genéticos móveis em genomas proca
 <li><a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_003018515.1/"><i>Escherichia coli</i> 2013C-3996</a></li>
 <li><a href="https://www.ncbi.nlm.nih.gov/datasets/genome/GCF_023614315.1/"><i>Streptomyces sudanensis</i> SD 504</a></li>
 </ul>
-<br><br>
 Em seguida, acesse a opção <i>"Blast"</i> na aba <i>"Tools"</i> do <a href="https://www-is.biotoul.fr/blast.php">ISfinder</a>:
 <br><br>
 <center>
@@ -298,7 +297,6 @@ Aguarde o término da análise e o redirecionamento automático para a página d
 <li><i>Score (bits)</i>: valor de score do alinhamento entre a sequência de referência e a potencial sequência alvo detectada no genoma analisado</li>
 <li><i>Evalue</i>: valor de significância estatística, quanto mais baixo (próximo de zero), menor a chance de que o alinhamento tenha ocorrido ao acaso</li>
 </ul>
-<br><br>
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_03_33.png" alt="Tabela de resultados do BLAST na database ISfinder" align="center">
