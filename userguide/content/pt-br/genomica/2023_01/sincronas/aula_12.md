@@ -3,7 +3,7 @@ title: "Aula 12 - Categorias de genes: Genes efetores, CAZymes, lipases e protea
 linkTitle: "Aula 12 - Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos"
 weight: 4
 description: >
-  Encontro do dia 25 de julho com aula sobre categorias de genes: genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos
+  Encontro do dia 24 de julho com aula sobre categorias de genes: genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos
 ---
 
 <br>
@@ -17,9 +17,9 @@ description: >
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Categorias de genes: efetores</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rG-c3l6vNjI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 03</h2>
