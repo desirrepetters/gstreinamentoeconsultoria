@@ -31,6 +31,6 @@ description: >
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_.pdf">Em breve!</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_12.pdf">Categorias de genes: Genes efetores, CAZymes, lipases e proteases. Clusters de genes de metabólitos secundários e sua importância em microrganismos</a>
 <br><br>
 </div>
