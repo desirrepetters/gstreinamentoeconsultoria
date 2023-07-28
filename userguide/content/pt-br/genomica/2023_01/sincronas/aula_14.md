@@ -1,21 +1,28 @@
 ---
-title: "Aula 14 - Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular"
-linkTitle: "Aula 14 - Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular"
+title: "Aula 14 - Anotação funcional: CAZymes, lipases, proteases, clusters de genes de metabólitos secundários"
+linkTitle: "Aula 14 - Anotação funcional: CAZymes, lipases, proteases, clusters de genes de metabólitos secundários"
 weight: 4
 description: >
-  Encontro do dia 27 de julho com aula sobre anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular
+  Encontro do dia 27 de julho com aula sobre anotação funcional: CAZymes, lipases, proteases, clusters de genes de metabólitos secundários
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
+<i>Visão geral sobre estratégias de anotação funcional</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rANFZqN-eco" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h2>Parte 02</h2>
+<br>
 <i>Em breve!</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
-<h2>Parte 02</h2>
+<h2>Parte 03</h2>
 <br>
 <i>Em breve!</i>
 <br><br><br>
