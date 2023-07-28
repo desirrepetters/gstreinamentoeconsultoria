@@ -31,6 +31,13 @@ description: >
 
 <h2>Parte 04</h2>
 <br>
+<i>Configuração e anotação de proteases utilizando dados do MEROPS e blastP</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/h2b2G5jQYvI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h2>Parte 05</h2>
+<br>
 <i>Em breve!</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
