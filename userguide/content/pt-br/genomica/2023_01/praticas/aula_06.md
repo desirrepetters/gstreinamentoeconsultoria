@@ -13,7 +13,7 @@ Texto inicial em breve!
 ## Detecção de peptídeo sinal com o SignalP
 
 <div align="justify">
-Para a detecção de efetores, é importante trabalhar somente com o conjunto de proteínas que sejam secretadas, pois do contrário, é possível obter falsos positivos e detectar características de proteínas efetoras em proteínas que permanecem no interior da célula. Sendo assim, a primeira etapa é detectar a presença de peptídeo sinal, que será um indicativo de que a proteína de fato é secretada. Para esta análise, utilizaremos a ferramenta SignalP 6.0 em sua versão <a href="https://services.healthtech.dtu.dk/services/SignalP-6.0/">online</a>. 
+Para a detecção de efetores, é importante trabalhar somente com o conjunto de proteínas que são secretadas, pois do contrário, é possível obter falsos positivos e detectar características de proteínas efetoras em proteínas que permanecem no interior da célula. Sendo assim, a primeira etapa é detectar a presença de peptídeo sinal, que será um indicativo de que a proteína de fato é secretada. Para esta análise, utilizaremos a ferramenta SignalP 6.0 em sua versão <a href="https://services.healthtech.dtu.dk/services/SignalP-6.0/">online</a>. 
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_01.png" alt="Visão geral da página inicial do SignalP 6.0" align="center">
@@ -109,7 +109,7 @@ No ínicio da aba de resultados, é possível realizar o download dos arquivos e
 </ul>
 <br><br>
 <center>
-<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_03/aula_06_15.png" alt="Arquivos de saída 'JSON summary', 'Prediction summary', 'Processed entries fasta', 'Processed entries GFF3', 'Region predictions GFF3' e 'All results compressed (zip)' como resultados do SignalP" align="center">
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_15.png" alt="Arquivos de saída 'JSON summary', 'Prediction summary', 'Processed entries fasta', 'Processed entries GFF3', 'Region predictions GFF3' e 'All results compressed (zip)' como resultados do SignalP" align="center">
 </center>
 <br><br>
 Basta repetir os mesmos procedimentos com os outros 9 arquivos contendo o restante das sequências, e juntar os arquivos <i>"Prediction summary"</i> de cada análise para obter um resultado único de presença ou não de peptídeo sinal para as sequências de aminoácidos das proteínas do genoma de interesse. 
