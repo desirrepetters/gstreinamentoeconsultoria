@@ -1,9 +1,9 @@
 ---
-title: "Aula 15 - Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular"
-linkTitle: "Aula 15 - Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular"
+title: "Aula 15 - Anotação funcional: efetores, localização celular, processos biológicos"
+linkTitle: "Aula 15 - Anotação funcional: efetores, localização celular, processos biológicos"
 weight: 4
 description: >
-  Encontro do dia 31 de julho com aula sobre anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular
+  Encontro do dia 31 de julho com aula sobre anotação funcional: efetores, localização celular, processos biológicos
 ---
 
 <br>
