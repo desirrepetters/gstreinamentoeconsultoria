@@ -176,13 +176,11 @@ Após o término da análise, o DeepTMHMM redireciona automaticamente a navegaç
 <li><i>"SP"</i>: quantidade de proteínas com peptídeo sinal dentre as proteínas avaliadas</li>
 <li><i>"GLOB"</i>: quantidade de proteínas classificadas como "globulares", ou seja, sem domínio transmembrana e peptídeo sinal</li>
 </ul>
-<br><br>
 Os arquivos de resultados podem ser baixados de forma conjunta por meio da opção <i>"Download"</i>, ou individualmente nos seguintes formatos:
 <ul>
 <li><i>"GFF3"</i>: coordenadas das hélices e domínios transmembrana para cada proteína avaliada</li>
 <li><i>"3line"</i>: arquivo FASTA modificado, apresentando a classificação de cada uma das proteínas em TM, SP+TM, SP ou GLOB, bem como a indicação do posicionamento de cada aminoácido da sequência (por exemplo, se está posicionado em domínio transmembrana ou dentro/fora da célula)</li>
 </ul>
-<br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_23.png" alt="Aba 'Results' e breve resumo dos resultados no DeepTMHMM" align="center">
 </center>
@@ -248,13 +246,18 @@ Observe que agora todos os marcadores foram removidos das linhas:
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_32.png" alt="Linhas com marcadores após uso do comando 'Apagar linhas sem marcadores' no Notepad++" align="center">
 </center>
 <br><br>
-Antes de salvarmos o arquivo, iremos realizar algumas outras edições para facilitar a compilação e manipulação do arquivo posteriormente. Para isso, acessaremos novamente a aba <i>"Localizar", e utilizaremos a seção <i>"Substituir"</i>:
+Antes de salvarmos o arquivo, iremos realizar algumas outras edições para facilitar a compilação e manipulação do arquivo posteriormente. Para isso, acessaremos novamente a aba <i>"Localizar"</i>, e utilizaremos a seção <i>"Substituir"</i>:
 <br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_33.png" alt="Aba 'Localizar' indicando a opção 'Substituir' no Notepad++" align="center">
 </center>
 <br><br>
-
+Na aba <i>"Substituir"</i>, ative a modalidade <i>"Normal"</i> dentre as opções de <i>"Modo de pesquisa"</i>. No campo <i>"Localizar"</i>, utilize o texto ">", para indicar que o Notepad++ deve procurar pelo símbolo ">". No campo <i>"Substituir"</i>, deixe o texto vazio, para indicar que o Notepad++ deve excluir os símbolos de ">" que encontrar. Clique em <i>"Substituir todos"</i> para que as substituições sejam realizadas:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_34.png" alt="Configuração da aba 'Substituir' para substituições de texto no Notepad++" align="center">
+</center>
+<br><br>
 </div>
 
 ## 
