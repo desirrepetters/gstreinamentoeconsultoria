@@ -78,11 +78,11 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 14 (Síncrona)</td>
   <td style="vertical-align:middle;">27/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_14"><br>Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_14"><br>Anotação funcional: CAZymes, lipases, proteases, clusters de genes de metabólitos secundários<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 15 (Síncrona)</td>
   <td style="vertical-align:middle;">31/07/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_15"><br>Anotação funcional: efetores, CAZymes, lipases, proteases, clusters de genes de metabólitos secundários, localização celular<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_15"><br>Anotação funcional: efetores, localização celular, processos biológicos<br></td>
   <tr>
   <td style="vertical-align:middle;">Atividade 03 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
@@ -90,27 +90,28 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 16 (Síncrona)</td>
   <td style="vertical-align:middle;">02/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_16"><br>Discussão da atividade assíncrona de anotação funcional<br></td>
-  <tr>
-  <td style="vertical-align:middle;">Aula 17 (Síncrona)</td>
-  <td style="vertical-align:middle;">03/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_17"><br>Arquitetura de genomas fúngicos e pangenoma<br></td>
-  <tr>
-  <td style="vertical-align:middle;">Aula 18 (Síncrona)</td>
-  <td style="vertical-align:middle;">07/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_18"><br>Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência<br></td>
-  <tr>
-  <td style="vertical-align:middle;">Aula 19 (Síncrona)</td>
-  <td style="vertical-align:middle;">08/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_19"><br>Análise dos resultados: gráficos de sintenia e organização genômica<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_16"><br>Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência<br></td>
   <tr>
   <td style="vertical-align:middle;">Atividade 04 (Assíncrona)</td>
   <td style="vertical-align:middle;">- - -</td>
-  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: análise de sintenia e orgaização genômica (prática)</a><br></td>
+  <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência</a><br></td>
+  <tr>
+  <td style="vertical-align:middle;">Aula 17 (Síncrona)</td>
+  <td style="vertical-align:middle;">07/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_17"><br>Arquitetura de genomas fúngicos e pangenoma<br></td>
+  <tr>
+  <td style="vertical-align:middle;">Aula 18 (Síncrona)</td>
+  <td style="vertical-align:middle;">08/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_18"><br>Análise dos resultados: gráficos de sintenia e organização genômica<br></td>
+  <tr>
+  <td style="vertical-align:middle;">Aula 19 (Síncrona)</td>
+  <td style="vertical-align:middle;">09/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_19"><br>Análise dos resultados: gráficos de sintenia e organização genômica<br></td>
+  
   <tr>
   <td style="vertical-align:middle;">Aula 20 (Síncrona)</td>
   <td style="vertical-align:middle;">10/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_20"><br>Análise dos resultados: gráficos de sintenia e organização genômica e encerramento do módulo principal do curso<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_20"><br>Discussão das atividades assíncronas e dúvidas, encerramento do módulo principal do curso<br></td>
   </table>
   </div>
 
