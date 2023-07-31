@@ -1,9 +1,9 @@
 ---
-title: "Aula 20 - Análise dos resultados: gráficos de sintenia e organização genômica e encerramento do módulo principal do curso"
-linkTitle: "Aula 20 - Análise dos resultados: gráficos de sintenia e organização genômica e encerramento do módulo principal do curso"
+title: "Aula 20 - Discussão das atividades assíncronas e dúvidas, encerramento do módulo principal do curso"
+linkTitle: "Aula 20 - Discussão das atividades assíncronas e dúvidas, encerramento do módulo principal do curso"
 weight: 4
 description: >
-  Encontro do dia 10 de agosto com aula sobre análise dos resultados: gráficos de sintenia e organização genômica e encerramento do módulo principal do curso
+  Encontro do dia 10 de agosto com aula de discussão das atividades assíncronas e dúvidas, encerramento do módulo principal do curso
 ---
 
 <br>
