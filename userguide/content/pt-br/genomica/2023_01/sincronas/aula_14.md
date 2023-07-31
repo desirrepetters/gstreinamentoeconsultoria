@@ -38,13 +38,13 @@ description: >
 
 <h2>Parte 05</h2>
 <br>
-<i>Em breve!</i>
+<i>Configuração e anotação de clusters de genes envolvidos na produção de metabólitos secundários utilizando o antiSMASH</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J57uNkFQ0Fg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_.pdf">Em breve!</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_14.pdf">Visão geral sobre estratégias de anotação funcional</a>
 <br><br>
 </div>
