@@ -157,5 +157,18 @@ Além, outra etapa prévia antes da anotação de efetores, além da detecção 
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_20.png" alt="Visão geral da página inicial do DeepTMHMM" align="center">
 </center>
 <br><br>
+Na primeira aba, <i>"Input"</i>, utilize a opção <i>"Select File"</i> para inserir o arquivo de interesse. O DeepTMHMM também apresenta uma limitação quanto ao tamanho de arquivo a ser utilizado, então podemos reutilizar os arquivos que preparamos na etapa anterior para <a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/praticas/aula_06/#detecção-de-peptídeo-sinal-com-o-signalp">detecção de peptídeo sinal</a>. Depois de inserir o arquivo de interesse, clique em <i>"Run"</i> para iniciar a análise.
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_21.png" alt="Aba 'Input' e opção 'Select File' para configuração do DeepTMHMM" align="center">
+</center>
+<br><br>
+A aba <i>"Compute"</i> fornece informações sobre o progresso da análise, que consiste em quatro etapas. 
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_22.png" alt="Aba 'Compute' e etapas da análise do DeepTMHMM" align="center">
+</center>
+<br><br>
 </div>
 
+## 
