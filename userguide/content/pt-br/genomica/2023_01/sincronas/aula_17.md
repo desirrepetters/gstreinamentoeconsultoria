@@ -3,7 +3,7 @@ title: "Aula 17 - Arquitetura de genomas fúngicos e pangenoma"
 linkTitle: "Aula 17 - Arquitetura de genomas fúngicos e pangenoma"
 weight: 4
 description: >
-  Encontro do dia 03 de agosto com aula sobre arquitetura de genomas fúngicos e pangenoma
+  Encontro do dia 07 de agosto com aula sobre arquitetura de genomas fúngicos e pangenoma
 ---
 
 <br>
