@@ -3,7 +3,7 @@ title: "Aula 19 - Análise dos resultados: gráficos de sintenia e organização
 linkTitle: "Aula 19 - Análise dos resultados: gráficos de sintenia e organização genômica"
 weight: 4
 description: >
-  Encontro do dia 08 de agosto com aula sobre análise dos resultados: gráficos de sintenia e organização genômica
+  Encontro do dia 09 de agosto com aula sobre análise dos resultados: gráficos de sintenia e organização genômica
 ---
 
 <br>
