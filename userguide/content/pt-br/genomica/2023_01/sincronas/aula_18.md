@@ -1,9 +1,9 @@
 ---
-title: "Aula 18 - Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência"
-linkTitle: "Aula 18 - Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência"
+title: "Aula 18 - Análise dos resultados: gráficos de sintenia e organização genômica"
+linkTitle: "Aula 18 - Análise dos resultados: gráficos de sintenia e organização genômica"
 weight: 4
 description: >
-  Encontro do dia 07 de agosto com aula sobre detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência
+  Encontro do dia 08 de agosto com aula sobre análise dos resultados: gráficos de sintenia e organização genômica
 ---
 
 <br>
