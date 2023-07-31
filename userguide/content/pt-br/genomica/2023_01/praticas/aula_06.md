@@ -258,6 +258,12 @@ Na aba <i>"Substituir"</i>, ative a modalidade <i>"Normal"</i> dentre as opçõe
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_34.png" alt="Configuração da aba 'Substituir' para substituições de texto no Notepad++" align="center">
 </center>
 <br><br>
+Após o uso do comando, todos os símbolos de ">" no início serão removidos:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_35.png" alt="Linhas sem símbolos de '>' após uso do comando 'Substituir' no Notepad++" align="center">
+</center>
+<br><br>
 </div>
 
 ## 
