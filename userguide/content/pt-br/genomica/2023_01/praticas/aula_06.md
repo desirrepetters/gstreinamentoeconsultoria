@@ -131,25 +131,31 @@ Após realizar a remoção das linhas em todos os arquivos, acesse a pasta em qu
 </center>
 <br><br>
 Ao abrir a janela do terminal, digite o seguinte comando:
+<br><br>
 </div>
 
 ```
-cat *.txt > PCitriasiana_CBS120486.tab
+cat *.txt > PCitriasiana_CBS120486_signalp.tab
 ```
 
 <div align="justify">
-<br><br>
 <center>
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_19.png" alt="Comando de concatenação no Terminal no Windows" align="center">
 </center>
 <br><br>
-Este comando realiza a concatenação de todos os arquivos com extensão txt (indicado pelo asterisco) em um arquivo de saída, aqui indicado como "PCitriasiana_CBS120486.tab". <b>Atenção:</b> caso existam outros arquivos com extensão "txt" na pasta, este comando também os concatenará no arquivo final, então cuidado ao utilizar este comando! Neste exemplo, como a pasta utilizada apresenta apenas os arquivos de saída do SignalP, não teremos maiores problemas.
+Este comando realiza a concatenação de todos os arquivos com extensão txt (indicado pelo asterisco) em um arquivo de saída, aqui indicado como "PCitriasiana_CBS120486_signal.tab".
+<br><br>
+<b>Atenção:</b> caso existam outros arquivos com extensão "txt" na pasta, este comando também os concatenará no arquivo final, então se esta for sua situação, indique os nomes de cada arquivo individualmente. Neste exemplo, como a pasta utilizada apresenta apenas os arquivos de saída do SignalP, não teremos maiores problemas. Após a concatenação, basta manter este arquivo salvo, para retomar seu uso em etapas futuras.
 </div>
 
-
-## Detecção de domínios e hélices transmembrana com o DeepTMHHM
+## Detecção de domínios e hélices transmembrana com o DeepTMHMM
 
 <div align="justify">
-Em breve!
+Além, outra etapa prévia antes da anotação de efetores, além da detecção da presença de peptídeo sinal, consiste em avaliar se as proteínas apresentam possíveis domínios e hélices transmembrana, também para evitar resultados falsos positivos ao detectar características de proteínas efetoras em proteínas que permanecem aderidas à membrana da célula. Para esta análise, utilizaremos a ferramenta DeepTMHMM em sua versão <a href="https://dtu.biolib.com/DeepTMHMM">online</a>. 
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_20.png" alt="Visão geral da página inicial do DeepTMHMM" align="center">
+</center>
+<br><br>
 </div>
 
