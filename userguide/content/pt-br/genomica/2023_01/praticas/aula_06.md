@@ -112,8 +112,40 @@ No ínicio da aba de resultados, é possível realizar o download dos arquivos e
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_15.png" alt="Arquivos de saída 'JSON summary', 'Prediction summary', 'Processed entries fasta', 'Processed entries GFF3', 'Region predictions GFF3' e 'All results compressed (zip)' como resultados do SignalP" align="center">
 </center>
 <br><br>
-Basta repetir os mesmos procedimentos com os outros 9 arquivos contendo o restante das sequências, e juntar os arquivos <i>"Prediction summary"</i> de cada análise para obter um resultado único de presença ou não de peptídeo sinal para as sequências de aminoácidos das proteínas do genoma de interesse. 
+Basta repetir os mesmos procedimentos com os outros 9 arquivos contendo o restante das sequências, e juntar os arquivos <i>"Prediction summary"</i> de cada análise para obter um resultado único de presença ou não de peptídeo sinal para as sequências de aminoácidos das proteínas do genoma de interesse. Uma estratégia relativamente simples para isso envolve a utilização do Windows Power Shell, mas antes precisaremos preparar os arquivos para a concatenação. Para isso, abra todos os arquivos de resultados no Notepad++. No primeiro arquivo, remova a primeira linha (destacada com a marcação em azul na imagem) e salve o arquivo:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_16.png" alt="Indicação de remoção da primeira linha no primeiro arquivo de resultados do SignalP no Notepad++" align="center">
+</center>
+<br><br>
+Nos arquivos subsequentes, remova sempre as primeiras duas linhas (destacadas com a marcação azul na imagem), e salve os arquivos: 
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_17.png" alt="Indicação de remoção das duas primeiras linhas no arquivos subsequentes de resultados do SignalP no Notepad++" align="center">
+</center>
+<br><br>
+Após realizar a remoção das linhas em todos os arquivos, acesse a pasta em que os arquivos estão armazenados, clique com o botão direito do mouse em algum espaço vazio, e após abrir a aba de opções, clique em <i>"Abrir no Terminal"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_18.png" alt="Opção 'Abrir no Terminal' no Windows" align="center">
+</center>
+<br><br>
+Ao abrir a janela do terminal, digite o seguinte comando:
 </div>
+
+```
+cat *.txt > PCitriasiana_CBS120486.tab
+```
+
+<div align="justify">
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_19.png" alt="Comando de concatenação no Terminal no Windows" align="center">
+</center>
+<br><br>
+Este comando realiza a concatenação de todos os arquivos com extensão txt (indicado pelo asterisco) em um arquivo de saída, aqui indicado como "PCitriasiana_CBS120486.tab". <b>Atenção:</b> caso existam outros arquivos com extensão "txt" na pasta, este comando também os concatenará no arquivo final, então cuidado ao utilizar este comando! Neste exemplo, como a pasta utilizada apresenta apenas os arquivos de saída do SignalP, não teremos maiores problemas.
+</div>
+
 
 ## Detecção de domínios e hélices transmembrana com o DeepTMHHM
 
