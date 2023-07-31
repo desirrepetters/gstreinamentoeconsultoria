@@ -1,9 +1,9 @@
 ---
-title: "Aula 16 - Discussão da atividade assíncrona de anotação funcional"
-linkTitle: "Aula 16 - Discussão da atividade assíncrona de anotação funcional"
+title: "Aula 16 - Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência"
+linkTitle: "Aula 16 - Detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência"
 weight: 4
 description: >
-  Encontro do dia 02 de agosto com aula de discussão da atividade assíncrona de anotação funcional
+  Encontro do dia 02 de agosto com aula sobre detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência
 ---
 
 <br>
