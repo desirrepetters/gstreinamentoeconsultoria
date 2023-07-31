@@ -169,6 +169,92 @@ A aba <i>"Compute"</i> fornece informações sobre o progresso da análise, que 
 <img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_22.png" alt="Aba 'Compute' e etapas da análise do DeepTMHMM" align="center">
 </center>
 <br><br>
+Após o término da análise, o DeepTMHMM redireciona automaticamente a navegação para a aba <i>"Results"</i>. O campo <i>"Job Summary"</i> apresenta um breve resumo dos resultados, indicando a quantidade de proteínas avaliadas e as respectivas categorias de classificação:
+<ul>
+<li><i>"TM"</i>: quantidade de proteínas com domínio transmembrana dentre as proteínas avaliadas</li>
+<li><i>"SP+TM"</i>: quantidade de proteínas com domínio transmembrana e peptídeo sinal dentre as proteínas avaliadas</li>
+<li><i>"SP"</i>: quantidade de proteínas com peptídeo sinal dentre as proteínas avaliadas</li>
+<li><i>"GLOB"</i>: quantidade de proteínas classificadas como "globulares", ou seja, sem domínio transmembrana e peptídeo sinal</li>
+</ul>
+<br><br>
+Os arquivos de resultados podem ser baixados de forma conjunta por meio da opção <i>"Download"</i>, ou individualmente nos seguintes formatos:
+<ul>
+<li><i>"GFF3"</i>: coordenadas das hélices e domínios transmembrana para cada proteína avaliada</li>
+<li><i>"3line"</i>: arquivo FASTA modificado, apresentando a classificação de cada uma das proteínas em TM, SP+TM, SP ou GLOB, bem como a indicação do posicionamento de cada aminoácido da sequência (por exemplo, se está posicionado em domínio transmembrana ou dentro/fora da célula)</li>
+</ul>
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_23.png" alt="Aba 'Results' e breve resumo dos resultados no DeepTMHMM" align="center">
+</center>
+<br><br>
+Repita o mesmo processo de configuração do DeepTMHMM para os outros 9 arquivos de sequências de proteínas da linhagem CBS 120486 de <i>Phyllosticta citriasiana</i>. Após o término de todas as análises, iremos juntar os arquivos <i>"predicted_topologies.3line"</i> de cada análise para obter um resultado único de presença ou não de domínio transmembrana para as sequências de aminoácidos das proteínas do genoma de interesse. Utilizaremos a mesma estratégia empregada anteriormente com o Windows Power Shell, mas desta vez não será necessário preparar os arquivos previamente. Acesse a pasta em que os arquivos estão armazenados, clique com o botão direito do mouse em algum espaço vazio, e após abrir a aba de opções, clique em <i>"Abrir no Terminal"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_24.png" alt="Opção 'Abrir no Terminal' no Windows" align="center">
+</center>
+<br><br>
+Ao abrir a janela do terminal, digite o seguinte comando:
+<br><br>
+</div>
+
+```
+cat *.3line > PCitriasiana_CBS120486_deeptmhmm.3line
+```
+
+<div align="justify">
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_25.png" alt="Comando de concatenação no Terminal no Windows" align="center">
+</center>
+<br><br>
+Este comando realiza a concatenação de todos os arquivos com extensão 3line (indicado pelo asterisco) em um arquivo de saída, aqui indicado como <i>"PCitriasiana_CBS120486_deeptmhmm.3line".</i> Entretanto, este arquivo, além de conter a lista com as sequências e suas respectivas categorias, apresenta as sequências em formato FASTA, que é uma informação que neste contexto não nos interessa. Existe uma maneira relativamente simples de remover as linhas com estas informações extras utilizando o Notepad++. Para isso, abra o arquivo <i>"PCitriasiana_CBS120486_deeptmhmm.3line"</i> e na aba <i>"Localizar"</i> clique na opção <i>"Marcar"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_26.png" alt="Aba 'Localizar' indicando a opção 'Marcar' no Notepad++" align="center">
+</center>
+<br><br>
+Na aba <i>"Marcar"</i>, ative a opção <i>"Marcar linha"</i> e também a modalidade <i>"Expressão regular"</i> dentre as opções de <i>"Modo de pesquisa"</i>. No campo <i>"Localizar"</i>, utilize o texto "^>", que é uma expressão regular que indica que o Notepad++ deve procurar pelo símbolo ">" em todo início de linha (indicado pelo símbolo "^"). Clique em <i>"Localizar todos"</i> para que a busca seja realizada:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_27.png" alt="Configuração da aba 'Marcar' para uso de expressão regular no Notepad++" align="center">
+</center>
+<br><br>
+Observe que após o uso deste comando, todas as linhas iniciadas pelo símbolo de ">" apresentam um marcador azul, enquanto as demais linhas não possuem marcadores:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_28.png" alt="Linhas com e sem marcadores após uso do comando 'Marcar linha' no Notepad++" align="center">
+</center>
+<br><br>
+Utilizaremos a presença de marcadores para distinguir quais linhas devem permanecer no arquivo e quais linhas devem ser removidas. Na aba <i>"Localizar"</i>, dentro da seção <i>"Marcadores"</i>, clique na opção <i>"Apagar linhas sem marcadores"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_29.png" alt="Aba 'Localizar' indicando a opção 'Apagar linhas sem marcadores' dentro da seção 'Marcadores' no Notepad++" align="center">
+</center>
+<br><br>
+Observe que agora todas as linhas sem marcadores foram removidas do arquivo, restando somente as linhas com marcadores azuis, que são as linhas que nos interessam, visto que apresentam o nome de cada um dos genes, bem como a sua classificação em TM, SP+TM, SP ou GLOB:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_30.png" alt="Linhas com marcadores após uso do comando 'Apagar linhas sem marcadores' no Notepad++" align="center">
+</center>
+<br><br>
+Para remover os marcadores antes de realizarmos outras edições no arquivo, basta acessar novamente a aba <i>"Localizar"</i> e a seção <i>"Marcadores"</i>, e desta vez selecionar a opção <i>"Limpar todos marcadores"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_31.png" alt="Aba 'Localizar' indicando a opção 'Limpar todos marcadores' dentro da seção 'Marcadores' no Notepad++" align="center">
+</center>
+<br><br>
+Observe que agora todos os marcadores foram removidos das linhas:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_32.png" alt="Linhas com marcadores após uso do comando 'Apagar linhas sem marcadores' no Notepad++" align="center">
+</center>
+<br><br>
+Antes de salvarmos o arquivo, iremos realizar algumas outras edições para facilitar a compilação e manipulação do arquivo posteriormente. Para isso, acessaremos novamente a aba <i>"Localizar", e utilizaremos a seção <i>"Substituir"</i>:
+<br><br>
+<center>
+<img src="https://raw.githubusercontent.com/desirrepetters/gstreinamentoeconsultoria/master/userguide/content/pt-br/genomica/2023_01/praticas/img/aula_06/aula_06_33.png" alt="Aba 'Localizar' indicando a opção 'Substituir' no Notepad++" align="center">
+</center>
+<br><br>
+
 </div>
 
 ## 
