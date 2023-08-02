@@ -31,6 +31,6 @@ description: >
 
 <h2>Slides</h2>
 <br><br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_15.pdf">Em breve!</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/genomica/2023_01/sincronas/pdf/aula_15.pdf">Princípios gerais de anotação de efetores, localização celular e processos biológicos</a>
 <br><br>
 </div>
