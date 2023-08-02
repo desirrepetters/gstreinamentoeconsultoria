@@ -24,9 +24,9 @@ description: >
 
 <h2>Parte 03</h2>
 <br>
-<i>Em breve!</i>
+<i>Princípios gerais de anotação de localização celular e processos biológicos, configuração e interpretação de resultados do EggNOG</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tO2-KsQU7co" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
