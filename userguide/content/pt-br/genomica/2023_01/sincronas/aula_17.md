@@ -3,7 +3,7 @@ title: "Aula 17 - Discussão de dúvidas e análises dos alunos"
 linkTitle: "Aula 17 - Discussão de dúvidas e análises dos alunos"
 weight: 4
 description: >
-  Encontro do dia 07 de agosto com discussão de dúvidas e análises dos alunos
+  Encontro do dia 15 de agosto com discussão de dúvidas e análises dos alunos
 ---
 
 <br>
