@@ -1,6 +1,6 @@
 ---
-title: "Aula 04 - Filogenoma: estratégias principais: concatenação de alinhamentos vs. consenso de árvores individuais"
-linkTitle: "Aula 04 - Filogenoma: estratégias principais: concatenação de alinhamentos vs. consenso de árvores individuais"
+title: "Aula 04 - Filogenoma - estratégias principais: concatenação de alinhamentos vs. consenso de árvores individuais"
+linkTitle: "Aula 04 - Filogenoma - estratégias principais: concatenação de alinhamentos vs. consenso de árvores individuais"
 weight: 4
 description: >
   Encontro do dia 12 de setembro sobre filogenoma: estratégias principais: concatenação de alinhamentos vs. consenso de árvores individuais
