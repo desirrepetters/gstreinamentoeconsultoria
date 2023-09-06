@@ -17,6 +17,6 @@ Este material faz parte do Módulo de Filogenômica “Curso de Genômica no Est
 ## Pronto para começar?
 
 <div align="justify">
-Que tal começar pelo <a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/praticas">aulas práticas</a>? Ou que tal começar a estudar o <a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/teoricas">conteúdo teórico?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
+Que tal começar pelo <a href="https://gstreinamentoeconsultoria.netlify.app/filogenomica/2023_01/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://gstreinamentoeconsultoria.netlify.app/filogenomica/2023_01/praticas">aulas práticas</a>? Ou que tal começar a assistir às <a href="https://gstreinamentoeconsultoria.netlify.app/filogenomica/2023_01/sincronas">aulas síncronas?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
 </div>
 
