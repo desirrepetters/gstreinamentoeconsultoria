@@ -97,16 +97,16 @@ description: >
   <td style="vertical-align:middle;"><br><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/assincronas/aula_04">Atividade assíncrona: detecção de genes ortólogos e análises comparativas de conteúdo, padrões de presença/ausência</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 17 (Síncrona)</td>
-  <td style="vertical-align:middle;">07/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_17"><br>Arquitetura de genomas fúngicos e pangenoma<br></td>
+  <td style="vertical-align:middle;">15/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_17"><br>Discussão de dúvidas e análises dos alunos<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 18 (Síncrona)</td>
-  <td style="vertical-align:middle;">08/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_18"><br>Análise dos resultados: gráficos de sintenia e organização genômica<br></td>
+  <td style="vertical-align:middle;">28/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_18"><br>Pangenomas<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 19 (Síncrona)</td>
-  <td style="vertical-align:middle;">09/08/2023 <br>(16:00 - 20:00)</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_19"><br>Análise dos resultados: gráficos de sintenia e organização genômica<br></td>
+  <td style="vertical-align:middle;">29/08/2023 <br>(16:00 - 20:00)</td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/genomica/2023_01/sincronas/aula_19"><br>Organização dos resultados: figuras, tabelas, gráficos e arquivos de suporte<br></td>
   
   <tr>
   <td style="vertical-align:middle;">Aula 20 (Síncrona)</td>
