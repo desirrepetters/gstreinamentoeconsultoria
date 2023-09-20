@@ -17,7 +17,7 @@ description: >
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Aula síncrona do dia 18/09/2023 sobre visualização de árvores no iTOL e configuração do RAxML e FASTTREE</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
