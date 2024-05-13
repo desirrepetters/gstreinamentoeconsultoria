@@ -3,7 +3,7 @@ title: "Aula 13 - Concatenação e análise multigênica"
 linkTitle: "Aula 13 - Concatenação e análise multigênica"
 weight: 4
 description: >
-  Encontro do dia 29 de março com aula sobre concatenação e análise multigênica
+  Aula assíncrona referente à carga horária do dia 17 de junho, sobre concatenação e análise multigênica
 ---
 
 <br>
