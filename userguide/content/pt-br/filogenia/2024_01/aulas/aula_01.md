@@ -1,9 +1,9 @@
 ---
-title: "Aula 01 - Conceitos básicos em taxonomia, sistemática e filogenia molecular. Identificação de espécies em microrganismos – problemas e soluções."
-linkTitle: "Aula 01 - Conceitos básicos em taxonomia, sistemática e filogenia molecular. Identificação de espécies em microrganismos – problemas e soluções."
+title: "Aula 01 - Conceitos básicos em taxonomia, sistemática e filogenia molecular"
+linkTitle: "Aula 01 - Conceitos básicos em taxonomia, sistemática e filogenia molecular"
 weight: 4
 description: >
-  Aula assíncrona referente à carga horária do dia 20 de maio, sobre conceitos básicos em taxonomia, sistemática e filogenia molecular. Identificação de espécies em microrganismos – problemas e soluções.
+  Aula assíncrona referente à carga horária do dia 20 de maio, sobre conceitos básicos em taxonomia, sistemática e filogenia molecular.
 ---
 
 <br>
@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01.pdf">aqui! (em breve!)</a>
+Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01.pdf">aqui! (EM BREVE!)</a>
 </div>
