@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01.pdf">aqui! (EM BREVE!)</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01b.pdf">Parte 02 - Conceitos básicos em taxonomia, sistemática e filogenia molecular</a>
 </div>
