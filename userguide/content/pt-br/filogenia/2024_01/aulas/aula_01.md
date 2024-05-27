@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01b.pdf">Parte 02 - Conceitos básicos em taxonomia, sistemática e filogenia molecular</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_01b.pdf">Parte 02 - Conceitos básicos em taxonomia, sistemática e filogenia molecular</a>
 </div>
