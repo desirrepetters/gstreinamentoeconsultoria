@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_04.pdf">Parte 01 & Parte 02 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Identificação de espécies em microrganismos – problemas e soluções.</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_04.pdf">Parte 01 & Parte 02 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Identificação de espécies em microrganismos – problemas e soluções.</a>
 </div>
