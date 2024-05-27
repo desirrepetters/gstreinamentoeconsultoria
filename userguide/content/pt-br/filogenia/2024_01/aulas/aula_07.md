@@ -24,5 +24,5 @@ description: >
 
 <h2>Slides</h2>
 <br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/blob/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_07.pdf">Possíveis problemas em eletroferogramas</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_07.pdf">Possíveis problemas em eletroferogramas</a>
 </div>
