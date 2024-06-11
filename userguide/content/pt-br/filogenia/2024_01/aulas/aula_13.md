@@ -1,9 +1,9 @@
 ---
-title: "Aula 13 - Concatenação e análise multigênica"
-linkTitle: "Aula 13 - Concatenação e análise multigênica"
+title: "Aula 13 - Métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas"
+linkTitle: "Aula 13 - Métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas"
 weight: 4
 description: >
-  Aula assíncrona referente à carga horária do dia 17 de junho, sobre concatenação e análise multigênica
+  Aula assíncrona referente à carga horária do dia 17 de junho, sobre sobre métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas
 ---
 
 <br>
