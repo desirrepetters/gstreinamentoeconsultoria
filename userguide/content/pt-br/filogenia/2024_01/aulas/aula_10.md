@@ -1,6 +1,6 @@
 ---
-title: "Aula 10 - Métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas"
-linkTitle: "Aula 10 - Métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas"
+title: "Aula 10 - Acesso aos bancos de dados e escolhas de sequências para montagem de arquivo FASTA, alinhamento e revisão do alinhamento"
+linkTitle: "Aula 10 - Acesso aos bancos de dados e escolhas de sequências para montagem de arquivo FASTA, alinhamento e revisão do alinhamento"
 weight: 4
 description: >
   Aula assíncrona referente à carga horária do dia 10 de junho, sobre acesso aos bancos de dados e escolhas de sequências para montagem de arquivo FASTA, alinhamento e revisão do alinhamento
