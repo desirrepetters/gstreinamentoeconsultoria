@@ -54,7 +54,7 @@ description: >
   <tr>
   <td style="vertical-align:middle;">Aula 10 (Assíncrona)</td>
   <td style="vertical-align:middle;">10/06/2024</td>
-  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2024_01/aulas/aula_10"><br>Aulas gravadas sobre métodos de reconstrução filogenética e modelos evolutivos. Seleção de modelos evolutivos e construção de árvores filogenéticas<br></td>
+  <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2024_01/aulas/aula_10"><br>Aulas gravadas sobre acesso aos bancos de dados e escolhas de sequências para montagem de arquivo FASTA, alinhamento e revisão do alinhamento<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11 (Assíncrona)</td>
   <td style="vertical-align:middle;">11/06/2024</td>
