@@ -10,19 +10,26 @@ description: >
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>Aula teórica sobre modelos evolutivos e métodos de reconstrução filogenética</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6LYN7dDnh8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Em breve!</i>
+<i>Aula teórica sobre métodos de reconstrução filogenética: máxima verossimilhança e inferência bayesiana</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mEyH6tFOIv0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br><br>
+
+<h2>Parte 03</h2>
+<br>
+<i>Aula prática sobre seleção de modelos evolutivos</i>
+<br><br><br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hNwyhliH3Sc" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/aula_01.pdf">aqui! (em breve!)</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_13.pdf">Modelos evolutivos e métodos de reconstrução filogenética</a>
 </div>
