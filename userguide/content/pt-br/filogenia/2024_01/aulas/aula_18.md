@@ -17,6 +17,6 @@ description: >
 
 <h2>Tutorial - MrBayes</h2>
 <br>
-Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/2024_01/aulas/slides/tutorial_bayes.zip">aqui</a> para fazer download do arquivo ZIP com tutorial em PDF e arquivo para configuração do MrBayes!
+Clique <a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/tutorial_bayes.zip">aqui</a> para fazer download do arquivo ZIP com tutorial em PDF e arquivo para configuração do MrBayes!
 
 </div>
