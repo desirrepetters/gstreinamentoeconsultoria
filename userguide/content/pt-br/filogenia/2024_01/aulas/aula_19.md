@@ -10,7 +10,7 @@ description: >
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Em breve!</i>
+<i>Seleção de modelos evolutivos e construção de árvores filogenéticas com alinhamentos concatenados</i>
 <br><br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/38YjxNb6r08" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
