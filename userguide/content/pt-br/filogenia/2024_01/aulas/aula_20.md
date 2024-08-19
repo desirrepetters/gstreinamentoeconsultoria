@@ -1,6 +1,6 @@
 ---
-title: "Aula 18 - Interpretação das árvores filogenéticas obtidas. Discussão final dos resultados"
-linkTitle: "Aula 18 - Interpretação das árvores filogenéticas obtidas. Discussão final dos resultados"
+title: "Aula 20 - Interpretação das árvores filogenéticas obtidas. Discussão final dos resultados"
+linkTitle: "Aula 20 - Interpretação das árvores filogenéticas obtidas. Discussão final dos resultados"
 weight: 4
 description: >
   Encontro do dia 28 de junho com interpretação das árvores filogenéticas obtidas e discussão final dos resultados.

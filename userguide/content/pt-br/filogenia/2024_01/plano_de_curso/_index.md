@@ -84,7 +84,7 @@ description: >
   <td style="vertical-align:middle;">25/06/2024</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2024_01/aulas/aula_17"><br>Atividades práticas 4 e 5<br><br></td>
   <tr>
-  <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
+  <td style="vertical-align:middle;">Aula 18 (Síncrona)</td>
   <td style="vertical-align:middle;">26/06/2024</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2024_01/aulas/aula_18"><br>Interpretação das árvores filogenéticas obtidas nas atividades 4 e 5<br><br></td>
   <tr>
