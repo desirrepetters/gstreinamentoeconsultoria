@@ -7,7 +7,7 @@ menu:
 layout: docs
 ---
 
-{{% blocks/cover title="Como a GS Treinamento e Consultoria pode te ajudar?" height="auto" color="black" %}}
+{{% blocks/cover title="Como a GS Treinamento e Consultoria pode te ajudar?" height="full" color="black" %}}
 
 {{% /blocks/cover %}}
 
