@@ -13,10 +13,6 @@ Cursos, consultorias e serviços que otimizam sua experiência diária na bancad
 
 {{% /blocks/cover %}}
 
-{{% blocks/section type="section" color="primary" %}}
-
-{{% /blocks/section %}}
-
 {{% blocks/section type="section" color="white" %}}
 
 <h2>Quais são nossos cursos?</h2> 
