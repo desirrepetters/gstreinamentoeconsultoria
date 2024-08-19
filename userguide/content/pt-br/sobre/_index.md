@@ -13,7 +13,7 @@ layout: docs
 
 {{% blocks/section type="section" color="primary" %}}
 
-Em construção!
+Cursos, consultorias e serviços que otimizam sua experiência diária na banca e aumentam a qualidade dos resultados e publicações!
 
 {{% /blocks/section %}}
 
