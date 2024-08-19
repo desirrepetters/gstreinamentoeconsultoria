@@ -9,6 +9,8 @@ layout: docs
 
 {{% blocks/cover title="Como a GS Treinamento e Consultoria pode te ajudar?" height="full" color="black" %}}
 
+Cursos, consultorias e serviços que otimizam sua experiência diária na banca e aumentam a qualidade dos resultados e publicações!
+
 {{% /blocks/cover %}}
 
 {{% blocks/section type="section" color="primary" %}}
