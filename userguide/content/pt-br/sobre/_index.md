@@ -15,8 +15,6 @@ Cursos, consultorias e serviços que otimizam sua experiência diária na bancad
 
 {{% blocks/section type="section" color="primary" %}}
 
-Cursos, consultorias e serviços que otimizam sua experiência diária na banca e aumentam a qualidade dos resultados e publicações!
-
 {{% /blocks/section %}}
 
 {{% blocks/section type="section" color="white" %}}
@@ -27,7 +25,7 @@ Em construção!
 <p><p>
 
 <p><p>
-<h2>Quem são nossos instrutores parceiros?</h2>
+<h2>Quem são nossos consultores especialistas?</h2>
 <p>
 <p>
 <table>
