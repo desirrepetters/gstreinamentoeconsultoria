@@ -9,7 +9,7 @@ layout: docs
 
 {{% blocks/cover title="Dúvidas Frequentes" height="auto" color="black" %}}
 
-Nessa seção buscamos responder às dúvidas mais frequentes em relação à vários aspectos do curso. Essa página será constantemente atualizada sempre que surgirem novas dúvidas, mas caso não encontre a resposta para sua pergunta, sinta-se à vontade para entrar em contato conosco pelo e-mail <b>gstreinamentoseconsultoria@gmail.com</b>! Estaremos sempre à disposição para esclarecer qualquer dúvida ou fornecer mais informações!
+Nessa seção buscamos responder às dúvidas mais frequentes em relação aos serviços e cursos oferecidos pela GS Treinamento e Consultoria. Essa página será constantemente atualizada sempre que surgirem novas dúvidas, mas caso não encontre a resposta para sua pergunta, sinta-se à vontade para entrar em contato conosco pelo e-mail <b>gstreinamentoseconsultoria@gmail.com</b>! Estaremos sempre à disposição para esclarecer qualquer dúvida ou fornecer mais informações!
 
 {{% /blocks/cover %}}
 
