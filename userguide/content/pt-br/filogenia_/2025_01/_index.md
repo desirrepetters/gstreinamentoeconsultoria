@@ -17,6 +17,6 @@ Este material faz parte do “Curso de Sequências de DNA na Identificação de 
 ## Pronto para começar?
 
 <div align="justify">
-Que tal começar pelo <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2025_01/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2025_01/praticas">aulas práticas</a>? Ou que tal começar a assistir ou rever as <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia/2025_01/aulas">gravações das aulas?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
+Que tal começar pelo <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/download">download e instalação</a> dos softwares que são utilizados nas <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/praticas">aulas práticas</a>? Ou que tal começar a assistir ou rever as <a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas">gravações das aulas?</a> A lista completa dos conteúdos também pode ser consultada abaixo!
 </div>
 
