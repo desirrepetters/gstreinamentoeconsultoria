@@ -3,7 +3,7 @@ title: "Aula 09 - Discussão e correção da atividade prática 1 e orientação
 linkTitle: "Aula 09 - Discussão e correção da atividade prática 1 e orientação para atividade prática 2"
 weight: 4
 description: >
-  Encontro do dia 19 de março com discussão e correção da atividade prática 1 e orientação para atividade prática 2
+  Encontro do dia 26 de março com discussão e correção da atividade prática 1 e orientação para atividade prática 2
 ---
 
 <br>
