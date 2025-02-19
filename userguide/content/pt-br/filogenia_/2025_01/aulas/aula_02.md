@@ -3,7 +3,7 @@ title: "Aula 02 - Critérios para identificação de espécies em diferentes org
 linkTitle: "Aula 02 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Bancos de dados."
 weight: 4
 description: >
-  Aula assíncrona 02, sobre critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados, e uso de bancos de dados.
+  Aula assíncrona referente à carga horária do dia 19 de fevereiro, sobre critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados, e uso de bancos de dados.
 ---
 
 <br>
