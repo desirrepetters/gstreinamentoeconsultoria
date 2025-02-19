@@ -1,28 +1,28 @@
 ---
-title: "Aula 03 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Bancos de dados."
-linkTitle: "Aula 03 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Bancos de dados."
+title: "Aula 03 - Obtenção de sequências consenso, análise de cromatogramas e alinhamento. Obtenção, alinhamento e análise de seqüências. Bancos de dados. Princípios para escolha de sequências para compor a árvore filogenética."
+linkTitle: "Aula 03 - Obtenção de sequências consenso, análise de cromatogramas e alinhamento. Obtenção, alinhamento e análise de seqüências. Bancos de dados. Princípios para escolha de sequências para compor a árvore filogenética."
 weight: 4
 description: >
-  Aula assíncrona referente à carga horária do dia 19 de fevereiro, sobre critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados, e uso de bancos de dados.
+  Aula assíncrona referente à carga horária do dia 26 de fevereiro, sobre obtenção de sequências consenso, análise de cromatogramas e alinhamento. Obtenção, alinhamento e análise de seqüências. Bancos de dados. Princípios para escolha de sequências para compor a árvore filogenética.
 ---
 
 <br>
 <div align="center">
 <h2>Parte 01</h2>
 <br>
-<i>Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados</i>
+<i>Obtenção de sequências consenso, análise de cromatogramas e alinhamento</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g8Emzw0p-qU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8LKHcEu3yto" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Parte 02</h2>
 <br>
-<i>Identificação de espécies em microrganismos – problemas e soluções</i>
+<i>Obtenção, alinhamento e análise de seqüências. Bancos de dados. Princípios para escolha de sequências para compor a árvore filogenética</i>
 <br><br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gfH9cQV9Pq8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GG5LL7UjEuI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br><br>
 
 <h2>Slides</h2>
 <br>
-<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_04.pdf">Parte 01 & Parte 02 - Critérios para identificação de espécies em diferentes organismos – seleção de genes apropriados e problemas frequentemente encontrados. Identificação de espécies em microrganismos – problemas e soluções.</a>
+<a href="https://github.com/desirrepetters/gstreinamentoeconsultoria/raw/master/userguide/content/pt-br/filogenia/2024_01/aulas/slides/aula_07.pdf">Possíveis problemas em eletroferogramas</a>
 </div>
