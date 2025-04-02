@@ -45,15 +45,15 @@ description: >
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_07"><br>Aulas gravadas seleção de modelos evolutivos e construção de árvores filogenéticas com alinhamentos concatenados</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 08 (Síncrona)</td>
-  <td style="vertical-align:middle;">19/03/2025</td>
+  <td style="vertical-align:middle;">20/03/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_08"><br>Discussão sobre as aulas gravadas e orientação para atividade prática 1<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 09 (Síncrona)</td>
-  <td style="vertical-align:middle;">26/03/2025</td>
+  <td style="vertical-align:middle;">27/03/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_09"><br>Discussão e correção da atividade prática 1 e orientação para atividade prática 2<br></a></td>
   <tr>
   <td style="vertical-align:middle;">Aula 10 (Síncrona)</td>
-  <td style="vertical-align:middle;">02/04/2025</td>
+  <td style="vertical-align:middle;">03/04/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_10"><br>Discussão e correção da atividade prática 2 e orientação para correção<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11 (Síncrona)</td>
