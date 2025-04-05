@@ -15,13 +15,18 @@ Cursos, consultorias e serviços que otimizam sua experiência diária na bancad
 
 {{% blocks/section type="section" color="white" %}}
 
+<h2>Como entrar em contato para solicitar uma proposta de consultoria ou serviços?</h2> 
+<p><p>
+Para solicitar uma proposta e orçamento de consultoria ou serviços, preencha o seguinte <a href="https://docs.google.com/forms/d/1qdj7xIdRpoZAoKTBqX5Runs4PhUw88V21tRRoXw_G7Q/edit">formulário</a>, trazendo informações que nos permitirão formular a proposta perfeita para melhor atender às suas necessidades.
+<p><p>
+
 <h2>Quais são nossos cursos?</h2> 
 <p><p>
 Em construção!
 <p><p>
 
 <p><p>
-<h2>Quem são nossos consultores especialistas?</h2>
+<h2>Quem são os consultores especialistas?</h2>
 <p>
 <p>
 <table>
