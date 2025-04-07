@@ -57,15 +57,15 @@ description: >
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_10"><br>Discussão e correção da atividade prática 2 e orientação para correção<br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 11 (Síncrona)</td>
-  <td style="vertical-align:middle;">09/04/2025</td>
+  <td style="vertical-align:middle;">10/04/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_11"><br>Nova discussão e correção da atividade prática 2 e orientação para atividade prática 3</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 12 (Síncrona)</td>
-  <td style="vertical-align:middle;">16/04/2025</td>
+  <td style="vertical-align:middle;">17/04/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_12"><br>Discussão e correção da atividade prática 3 e orientação para correção</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 13 (Síncrona)</td>
-  <td style="vertical-align:middle;">23/04/2025</td>
+  <td style="vertical-align:middle;">24/04/2025</td>
   <td style="vertical-align:middle;"><a href="https://gstreinamentoeconsultoria.netlify.app/filogenia_/2025_01/aulas/aula_13"><br>Nova discussão e correção da atividade prática 3 e orientação para atividade prática 4</a><br></td>
   <tr>
   <td style="vertical-align:middle;">Aula 14 (Síncrona)</td>
