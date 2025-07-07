@@ -37,7 +37,7 @@ Em construção!
 
 &nbsp;
 
-<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR. Foi chefe da UNIBIO (Unidade de Assuntos Relacionados à Biodiversidade) na UFPR de Março de 2019 a Dezembro de 2024. Atua ativamente no GT SisGen da Academia e no GT Capacitação Academia, vinculados à Câmara Setorial da Academia do CGen.
+<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR. Foi chefe da <a href="https://www.prppg.ufpr.br/site/pb/unibio/">UNIBIO (Unidade de Assuntos Relacionados à Biodiversidade) na UFPR</a> de Março de 2019 a Dezembro de 2024. Atua ativamente no GT SisGen da Academia e no GT Capacitação Academia, vinculados à Câmara Setorial da Academia do CGen.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
@@ -79,7 +79,7 @@ Em construção!
 
 <p><p>
 
-<b>Desirrê Petters-Vandresen</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 2023.
+<b>Desirrê Petters-Vandresen</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 2023. É orientadora de teses no Programa de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> da mesma instituição.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
