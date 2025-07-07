@@ -37,17 +37,16 @@ Em construção!
 
 &nbsp;
 
-<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR.
+<b>Chirlei Glienke</b> é professora do <a href="https://www.bio.ufpr.br/portal/genetica/">Departamento de Genética da UFPR</a> desde 1997. É orientadora de teses e dissertações nos Programas de Pós-Graduação em <a href="https://www.bio.ufpr.br/portal/ppggenetica/">Genética</a> e <a href="https://www.prppg.ufpr.br/ppgmpp/">Microbiologia, Parasitologia e Patologia</a> da UFPR. Foi chefe da UNIBIO (Unidade de Assuntos Relacionados à Biodiversidade) na UFPR de Março de 2019 a Dezembro de 2024. Atua ativamente no GT SisGen da Academia e no GT Capacitação Academia, vinculados à Câmara Setorial da Academia do CGen.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
 <li style="text-align: left">Filogenia e Taxonomia Molecular</li>
 <li style="text-align: left">Identificação e diagnóstico de microrganismos</li>
-<li style="text-align: left">Doenças fúngicas em <em>Citrus</em></li>
-<li style="text-align: left">Fungos endofíticos</li>
-<li style="text-align: left">Controle Biológico</li>
-<li style="text-align: left">Epidemiologia molecular de <em>Phyllosticta citricarpa</em></li>
+<li style="text-align: left">Bioprospecção e busca por novas moléculas e compostos bioativos</li>
+<li style="text-align: left">Lei de Biodiversidade Brasileira</li>
+<li style="text-align: left">Protocolo de Nagoia</li>
 </ul>
 
 <strong>Formação</strong>
@@ -85,8 +84,8 @@ Em construção!
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
-<li style="text-align: left">Filogenia e Taxonomia Molecular</li>
-<li style="text-align: left">Genômica de espécies de <i>Phyllosticta</i> associadas a citros</li>
+<li style="text-align: left">Filogenia e Taxonomia Molecular de microrganismos</li>
+<li style="text-align: left">Genômica comparativa e evolução de fungos filamentosos (Pezizomycotina)</li>
 </ul>
 
 <strong>Formação</strong>
@@ -121,12 +120,12 @@ Em construção!
 
 <p><p>
 
-<b>Alan de Oliveira Silva</b> é um pesquisador atuante na linha de pesquisa de Genética de Microrganismos Fitopatogênicos com ênfase em Genética da Interação Fungo-Planta, possuindo sólida experiência em diversos métodos de pesquisa em Genética, Biologia Molecular e Microbiologia e na assessoria acadêmica para correção de textos, manuscritos, teses e apresentações em português e inglês. Nos últimos anos atuou como pesquisador de pós-doutorado (2018 – 2022) em Genética Funcional de Fungos, aprofundando seus conhecimentos em Biologia Molecular da interação fungo-planta, participando da Escola Internacional AGRIPOLY (Alemanha) como supervisor do trabalho de pesquisa de alunos de graduação e mestrado e de alunos do programa de intercâmbio da Universidade Alemã no Cairo (German University in Cairo – GUC, Egito).
+<b>Alan de Oliveira Silva</b> é pesquisador na área de Genética de Microrganismos Fitopatogênicos, com ênfase na Genética da Interação Fungo-Planta. Possui sólida experiência em técnicas de Genética, Biologia Molecular e Microbiologia. Atuou como pesquisador de pós-doutorado na Martin Luther Universität, na Alemanha (2018–2022), onde integrou projetos voltados à Genética Funcional de Fungos. Atualmente, desenvolve projeto de pós-doutorado na Universidade Federal do Paraná, como membro da Rede Paranaense de Coleções Microbiológicas.
 <p><p>
 <p style="text-align: left">Atua principalmente nos seguintes tópicos:</p>
 
 <ul>
-<li style="text-align: left">Genética de Microorganismos Fitopatogênicos</li>
+<li style="text-align: left">Genética de Microorganismos</li>
 <li style="text-align: left">Genética da Interação Fungo-Planta</li>
 <li style="text-align: left">Genética Funcional em <i>Colletotrichum</i></li>
 </ul>
@@ -144,6 +143,7 @@ Em construção!
 <strong>Pós-doutorado</strong>
 <ul>
 <li>Pós-Doutorado em Genética Funcional de Fungos na Martin-Luther-Universität Halle-Wittenberg em Halle, Alemanha (2017 - 2022)</li>
+<li>Pós-Doutorado em Genética Molecular de Microrganismos na Rede Paranaense de Coleções Microbiológicas, UFPR, Curitiba-PR (atual)</li>
 </ul>
 
 </td>
